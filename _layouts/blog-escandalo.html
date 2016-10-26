@@ -1,0 +1,21 @@
+---
+layout: default
+title: "Blog"
+---
+
+<section class="container mod-intro text-center">
+		<h1>&#128582; Escandalo quiere compartir contigo</h1>
+		<p class="large-text">{{ page.intro }}</p>
+
+	</section>
+	<article class="container">
+		<ul class="container mod-row">
+			{% for post in site.posts %}
+				<li>
+					<a href="{{ post.url | preprend: site.url }}" title="{{ post.title }}">
+						<img src="{{site.url}}/img/{{ post.image }}" width="220" height="auto" alt="{{ post.title }}"/>
+					</a>
+				</li>
+			{% endfor %}
+		</ul>
+	</article>

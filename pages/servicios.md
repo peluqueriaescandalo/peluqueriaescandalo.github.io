@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Servicios
-permalink: /pretty/
-
+title: "Servicios"
+permalink: /servicios/
 ---
+
 <section class="container mod-intro text-center">
   <h1>Tu peluqueria de confianza</h1>
   <p class="large-text">Experiencia, pasión por nuestro trabajo y productos de primera calidad<br> definen la filosofía de nuestro salon.</p>
@@ -30,13 +30,13 @@ permalink: /pretty/
     </p>
    </div>
    <div>
-    <img src="photos/color2.jpg" width="300" height="auto" alt="color peluqueria escandalo" title="colo2"/>
+    <img src="img/color2.jpg" width="300" height="auto" alt="color peluqueria escandalo">
    </div>
    <div>
-    <img src="photos/color1.jpg" width="400" height="auto" alt="color peluqueria escandalo" title="color1"/>
+    <img src="img/color1.jpg" width="400" height="auto" alt="color peluqueria escandalo">
    </div>
    <div>
-    <img src="photos/color3.jpg" width="400" height="auto" alt="color peluqueria escandalo" title="color3"/>
+    <img src="img/color3.jpg" width="400" height="auto" alt="color peluqueria escandalo">
    </div>
  </article>
  <article class="container mod-row">
@@ -49,8 +49,8 @@ permalink: /pretty/
      </p>
     </div>
     <div>
-      <img src="photos/corte2.jpg" width="200" height="auto" alt="color peluqueria escandalo" title="colo1"/>
-      <img src="photos/corte3.jpg" width="200" height="auto" alt="color peluqueria escandalo" title="color1"/>
+      <img src="img/corte2.jpg" width="200" height="auto" alt="color peluqueria escandalo">
+      <img src="img/corte3.jpg" width="200" height="auto" alt="color peluqueria escandalo" title=">
     </div>
     </div>
   </article>
@@ -63,7 +63,7 @@ permalink: /pretty/
         </p>
      </div>
      <div>
-      <img src="photos/tratamientos.jpg" width="300" height="auto" alt="color peluqueria escandalo" title="colo2"/>
+      <img src="img/tratamientos.jpg" width="300" height="auto" alt="color peluqueria escandalo">
      </div>
    </article>
    <article class="container mod-row">
@@ -78,6 +78,6 @@ permalink: /pretty/
        </p>
       </div>
       <div>
-       <img src="photos/novia2.jpg" width="400" height="auto" alt="color peluqueria escandalo" title="colo1"/>
+       <img src="img/novia2.jpg" width="400" height="auto" alt="color peluqueria escandalo">
       </div>
   </article>

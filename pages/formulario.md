@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Formulario Peluquería Escándalo"
-permalink: /pretty/
+permalink: "/formulario/"
 ---
 
 <section class="container mod-intro text-center">

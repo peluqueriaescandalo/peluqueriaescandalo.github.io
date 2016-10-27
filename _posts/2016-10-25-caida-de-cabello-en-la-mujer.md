@@ -12,7 +12,7 @@ image: caida-cabello-mujer.png
   </p>
 </div>
  <div>
- <img src="img/caida-cabello.jpg" width="400" height="auto" alt="blog peluqueria Escandalo">
+ <img src="/img/caida-cabello.jpg" width="400" height="auto" alt="blog peluqueria Escandalo">
  </div>
   <p>
     Hoy vamos a contarte como funciona el ciclo del pelo en la mujer y cuales pueden ser las causas de su caída.
@@ -52,6 +52,6 @@ image: caida-cabello-mujer.png
    </p>
    <p>Consulta con tu médico y tu peluquero de confianza para que te aconsejen.</p>
    <p class="container text-center">
-   Pasaté por nuestro salón y cuentanos tu caso, veremos como podemso ayudarte <a class="button" href=""{{ site.url }}">Reservar</a>
+   Pasaté por nuestro salón y cuentanos tu caso, veremos como podemso ayudarte <a class="button" href=""{{ site.url }}/formulario">Reservar</a>
    </p>
 </article>

@@ -52,6 +52,6 @@ image: caida-cabello-mujer.png
    </p>
    <p>Consulta con tu médico y tu peluquero de confianza para que te aconsejen.</p>
    <p class="container text-center">
-   Pasaté por nuestro salón y cuentanos tu caso, veremos como podemso ayudarte <a class="button" href="www.peluqueriaescandalozaragoza.es/formulario">Reservar</a>
+   Pasaté por nuestro salón y cuentanos tu caso, veremos como podemso ayudarte <a class="button" href=""{{ site.url }}">Reservar</a>
    </p>
 </article>

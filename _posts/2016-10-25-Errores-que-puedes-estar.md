@@ -49,6 +49,6 @@ image: "errores-secandote-pelo.png"
    La boquilla extraíble de tu secador de pelo puede parecer un extra innecesario, pero, en realidad, hace que la dirección y la concentración  del aire sea muy precisa, lo que puede ser de gran ayuda para evitar el error 7.
    </p>
    <p class="container text-center">
-   Esperamos que estos consejos sean de utilidad, si tienes cualquier duda pasa por nuestro salón &#128521; <a class="button" href="www.peluqueriaescandalozaragoza.es/formulario">Reservar</a>
+   Esperamos que estos consejos sean de utilidad, si tienes cualquier duda pasa por nuestro salón &#128521; <a class="button" href="{{ site.url }}">Reservar</a>
    </p>
 </article>

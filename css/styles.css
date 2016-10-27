@@ -71,9 +71,10 @@ h3{
   opacity: 10;
   margin-top: 30px;
   margin-bottom: 5px
+	text-align :left;
 }
 .post-title{
-	margin-top: 200px
+	margin-top: 180px
 }
 p{
   display: block;

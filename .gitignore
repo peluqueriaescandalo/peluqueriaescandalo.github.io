@@ -3,7 +3,6 @@ _gh_pages
 _site
 .ruby-version
 .sass-cache
-_config.yml
 
 # Numerous always-ignore extensions
 *.diff

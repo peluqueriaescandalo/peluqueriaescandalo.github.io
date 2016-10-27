@@ -4,7 +4,7 @@ permalink:           /:title
 # Setup
 title:               Peluqueria Escandalo
 tagline:
-url:                 "http://www.peluqueriaescandalozaragoza.es/"
+url:                 "https://peluqueriaescandalo.github.io/peluqueriaescandalo"
 paginate:            1
 baseurl:             ""
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Caída del cabello en la mujer"
 image: caida-cabello-mujer.png
+tags: "caida pelo mujer" "ciclo del pelo"
 ---
 
 <article class="container mod-row">

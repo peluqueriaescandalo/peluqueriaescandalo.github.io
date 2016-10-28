@@ -8,7 +8,7 @@ permalink: /servicios/
   <h1>Tu peluqueria de confianza</h1>
   <p class="large-text">Experiencia, pasión por nuestro trabajo y productos de primera calidad<br> definen la filosofía de nuestro salon.</p>
   <p>
-    Te esperamos de lunes a viernes de  9h30 a 18h00 y los sabados de 9h00 a 13h30
+    Te esperamos de lunes a viernes de  9h30 a 18h00 y los sabados de 9h00 a 13h00
   </p>
   <p>
     <a class="button" href="www.peluqueriaescandalozaragoza.es/formulario">Reservar</a>
@@ -81,7 +81,7 @@ permalink: /servicios/
        <img src="img/novia2.jpg" width="400" height="auto" alt="color peluqueria escandalo">
       </div>
       <p>
-        Te esperamos de lunes a viernes de  9h30 a 18h00 y los sabados de 9h00 a 13h30
+        Te esperamos de lunes a viernes de  9h30 a 18h00 y los sabados de 9h00 a 13h00
       </p>
       <p>
         <a class="button" href="{{ site.url }}/formulario">Reservar</a>

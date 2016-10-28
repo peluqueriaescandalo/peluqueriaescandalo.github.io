@@ -2,6 +2,7 @@
 layout: post
 title: 8 Errores que puedes estar cometiendo cuando te secas el pelo
 image: "errores-secandote-pelo.png"
+tags: "sercarse bien pelo" "consejos secado pelo"
 ---
 
  <article class="container mod-row">

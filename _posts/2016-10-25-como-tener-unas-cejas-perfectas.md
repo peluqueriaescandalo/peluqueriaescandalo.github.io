@@ -2,7 +2,6 @@
 layout: "post"
 title: "¿Como tener unas cejas perfectas?"
 image: "blog-cejas-perfectas.png"
-tags: "cejas perfectas" "maquillaje cejas" "painar cejas"
 ---
 
  <article class="container mod-row">

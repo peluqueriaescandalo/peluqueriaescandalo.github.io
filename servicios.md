@@ -50,8 +50,7 @@ permalink: /servicios/
     </div>
     <div>
       <img src="img/corte2.jpg" width="200" height="auto" alt="color peluqueria escandalo">
-      <img src="img/corte3.jpg" width="200" height="auto" alt="color peluqueria escandalo" title=">
-    </div>
+      <img src="img/corte3.jpg" width="200" height="auto" alt="color peluqueria escandalo">
     </div>
   </article>
   <article class="container mod-row">

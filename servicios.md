@@ -30,7 +30,7 @@ permalink: /servicios/
     </p>
    </div>
    <div>
-    <img src=""{{ site.url }}/img/color2.jpg" width="300" height="auto" alt="color peluqueria escandalo">
+    <img src="img/color2.jpg" width="300" height="auto" alt="color peluqueria escandalo">
    </div>
    <div>
     <img src="img/color1.jpg" width="400" height="auto" alt="color peluqueria escandalo">

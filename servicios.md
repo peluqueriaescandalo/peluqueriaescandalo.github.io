@@ -33,10 +33,10 @@ permalink: /servicios/
     <img src="{{ site.url }}/img/color2.jpg" width="300" height="auto" alt="color peluqueria escandalo">
    </div>
    <div>
-    <img src="img/color1.jpg" width="400" height="auto" alt="color peluqueria escandalo">
+    <img src="{{ site.url }}/img/color1.jpg" width="400" height="auto" alt="color peluqueria escandalo">
    </div>
    <div>
-    <img src="img/color3.jpg" width="400" height="auto" alt="color peluqueria escandalo">
+    <img src="{{ site.url }}/img/color3.jpg" width="400" height="auto" alt="color peluqueria escandalo">
    </div>
  </article>
  <article class="container mod-row">
@@ -49,8 +49,8 @@ permalink: /servicios/
      </p>
     </div>
     <div>
-      <img src="img/corte2.jpg" width="200" height="auto" alt="color peluqueria escandalo">
-      <img src="img/corte3.jpg" width="200" height="auto" alt="color peluqueria escandalo">
+      <img src="{{ site.url }}/img/corte2.jpg" width="200" height="auto" alt="color peluqueria escandalo">
+      <img src="{{ site.url }}/img/corte3.jpg" width="200" height="auto" alt="color peluqueria escandalo">
     </div>
   </article>
   <article class="container mod-row">
@@ -62,7 +62,7 @@ permalink: /servicios/
         </p>
      </div>
      <div>
-      <img src="{{ site.url }}img/tratamientos.jpg" width="300" height="auto" alt="color peluqueria escandalo">
+      <img src="{{ site.url }}/img/tratamientos.jpg" width="300" height="auto" alt="color peluqueria escandalo">
      </div>
    </article>
    <article class="container mod-row">

@@ -15,7 +15,7 @@ image: "blog-cejas-perfectas.png"
    </p>
  </div>
  <div>
-   <img src="img/banniercejas.jpg" width="310" height="360" alt="Peluqueria Escandalo peinado de cejas">
+   <img src="img/banniercejas.jpg" width="310" height="auto" alt="Peluqueria Escandalo peinado de cejas">
  </div>
    <p>
    El modo de empleo es muy sencillo:

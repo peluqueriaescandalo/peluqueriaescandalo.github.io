@@ -80,9 +80,6 @@ permalink: /servicios/
        <img src="{{ site.url }}/img/novia2.jpg" width="400" height="auto" alt="color peluqueria escandalo">
       </div>
       <p>
-        Te esperamos de lunes a viernes de  9h30 a 18h00 y los sabados de 9h00 a 13h00
-      </p>
-      <p>
-        <a class="button" href="{{ site.url }}/formulario">Reservar</a>
+        Te esperamos de lunes a viernes de  9h30 a 18h00 y los sabados de 9h00 a 13h00 <a class="button" href="{{ site.url }}/formulario">Reservar</a>
       </p>
   </article>

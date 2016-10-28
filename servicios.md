@@ -30,7 +30,7 @@ permalink: /servicios/
     </p>
    </div>
    <div>
-    <img src="img/color2.jpg" width="300" height="auto" alt="color peluqueria escandalo">
+    <img src="{{ site.url }}/img/color2.jpg" width="300" height="auto" alt="color peluqueria escandalo">
    </div>
    <div>
     <img src="img/color1.jpg" width="400" height="auto" alt="color peluqueria escandalo">
@@ -62,7 +62,7 @@ permalink: /servicios/
         </p>
      </div>
      <div>
-      <img src="img/tratamientos.jpg" width="300" height="auto" alt="color peluqueria escandalo">
+      <img src="{{ site.url }}img/tratamientos.jpg" width="300" height="auto" alt="color peluqueria escandalo">
      </div>
    </article>
    <article class="container mod-row">
@@ -77,7 +77,7 @@ permalink: /servicios/
        </p>
       </div>
       <div>
-       <img src="img/novia2.jpg" width="400" height="auto" alt="color peluqueria escandalo">
+       <img src="{{ site.url }}/img/novia2.jpg" width="400" height="auto" alt="color peluqueria escandalo">
       </div>
       <p>
         Te esperamos de lunes a viernes de  9h30 a 18h00 y los sabados de 9h00 a 13h00

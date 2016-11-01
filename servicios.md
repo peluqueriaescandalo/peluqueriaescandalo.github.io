@@ -72,7 +72,7 @@ permalink: /servicios/
         También te acompañamos en tus momentos más especiales. Dinos que evento vas a celebrar, (una boda, una comunión, un fin de carrera) y como vas a ir vestida y te propondremos un recogido que te sorprenderá.
        </p>
        <p>
-        Para las novias ofrecemos un pack de peinado + maquillaje + manicura.
+        Para las novias ofrecemos un pack de<br> peinado + maquillaje + manicura.
         Pide presupuesto sin compromiso.
        </p>
       </div>

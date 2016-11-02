@@ -43,7 +43,7 @@ image: caida-cabello-mujer.png
      </ul>
    </p>
    <p>
-    **En la edad madura alrededor** del 40% de las mujeres muestran signos de caída del cabello. Este fenómeno se llama alopecia androgenética, una enfermedad de base genética en la que los folículos pilosos se reducen gradualmente y se vuelven menos activos, lo que provoca estragos en el pelo al volverse ralo, caerse más y crezcer menos.<br>
+    En la edad madura alrededor del 40% de las mujeres muestran signos de caída del cabello. Este fenómeno se llama alopecia androgenética, una enfermedad de base genética en la que los folículos pilosos se reducen gradualmente y se vuelven menos activos, lo que provoca estragos en el pelo al volverse ralo, caerse más y crezcer menos.<br>
     La bajada de los niveles de estrógeno debidos a la menopausia, pueden también jugar un papel en la pérdida de cabello.<br>
     Otras mujeres padecen el efluvio telógeno, un desprendimiento temporal provocado por el estrés, enfermedad, deficiencias nutricionales o cambios hormonales.
    </p>

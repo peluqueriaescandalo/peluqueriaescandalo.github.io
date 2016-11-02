@@ -30,7 +30,7 @@ image: "blog-cejas-perfectas.png"
    Taupe, Tan, Charcoal, Black, Dark Brown, Brown, Bronze, Irid Brown.
    </p>
    <p>
-     **Pásate por nuestro salón** y con tu servicio de peluquería **te ofreceremos un maquillaje de cejas** y te asesoraremos sobre el tono de sombra que va mejor con tu color de piel y de pelo.
+     Pásate por nuestro salón y con tu servicio de peluquería te ofreceremos un maquillaje de cejas y te asesoraremos sobre el tono de sombra que va mejor con tu color de piel y de pelo.
    </p>
   <div>
    <img src="img/peinadocejas.jpg" width="300" height="auto" alt="Peluqueria Escandalo peinado de cejas">

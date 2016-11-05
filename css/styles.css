@@ -1,0 +1,241 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+  font-family: 'Roboto', arial;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/** Typography
+*/
+h1{
+  font-size: 28px;
+  text-align: center;
+  color: #7BE629;
+  Font weight: 900;
+  line weight: 1.20;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  letter-spacing: -0.72px;
+}
+h2{
+  font-size: 24px;
+	color: #7BE629;
+  font-weight: 700;
+  line-height: 1.2;
+  opacity: 0.80;
+  margin-top: 30px;
+  margin-bottom: 30px
+}
+h3{
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.2;
+  opacity: 10;
+  margin-top: 30px;
+  margin-bottom: 5px
+	text-align :left;
+}
+.post-title{
+	margin-top: 180px
+}
+p{
+  display: block;
+  width: 100%;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 1.60;
+  opacity: 0.70;
+  margin-top: 0px;
+  margin-bottom: 25px;
+  letter-spacing: -0.30px;
+  word-spacing: -0.10px;
+  capitalization:none;
+}
+.large-text{
+  font-size: 24px;
+  font-style: italic;
+  text-align: center;
+  font-weight: 700;
+  line-height: 1.2;
+  opacity: 0.80;
+  margin-top: 30px;
+}
+.button{
+  cursor: pointer;
+  text-align: center;
+  display: inline-block;
+  background-color: #7BE629;
+  color: rgba(0, 0, 0, 0.7);
+  transition: background-color .3s ease-out;
+  border-radius: .125rem;
+  display: inline-block;
+  font-size: 1.00rem;
+  padding: .625rem 1.25rem .6875rem;
+  font-family: Roboto,Helvetica,Arial,sans-serif;
+  position: relative;
+  text-decoration: none;
+  border-style: solid;
+  border-width: 0;
+}
+.text-center{
+  text-align: center;
+}
+.parrafo-cejas-perfectas{
+  justify-content: flex-start;
+  align-items: center;
+  width: 500px;
+  margin-right: 100px;
+  margin-top: 100px;
+}
+.paragraph-list-ul{
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 1.60;
+  opacity: 0.70;
+  letter-spacing: -0.30px;
+  word-spacing: -0.10px;
+  display: block;
+  width: 100%;
+}
+
+/** Layout
+*/
+.header{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin: 0 auto;
+  left: 0; /* Posicionamos la cabecera al lado izquierdo */
+  top: 0; /* Posicionamos la cabecera pegada arriba */
+  position: fixed; /* Hacemos que la cabecera tenga una posición fija */
+  background-color: white;
+  z-index: 2;
+}
+.header-logo{
+  max-width: 400px;
+  width: 200px;
+  padding: 10px;
+}
+.header-facebook{
+  justify-content: center;
+  align-items:center;
+  max-width: 200px;
+  width: 50px;
+  padding: 20px;
+}
+.header-direccion{
+  max-width: 400px;
+  align-items: center;
+  width: 200px;
+  font-size: 16px;
+  padding: 20px;
+}
+nav{
+  display: flex;
+  justify-content:space-around;
+  align-items:center;
+  width: 800px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+nav li{
+  display: inline;
+  margin: 0 auto;
+  padding: 12px;
+}
+.container{
+  max-width: 1000px;
+  margin: 0 auto 64px;
+  padding: 0 24px;
+}
+.container img{
+  margin: 0 0 24px;
+  max-width: 100%;
+}
+.container iframe{
+  max-width: 100%;
+}
+  .container.mod-intro{
+    padding-top: 140px;
+  }
+  .container.mod-row{
+      display: flex;
+      flex-direction:row;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      align-items: center;
+  }
+.container-item-text-left{
+  width: 450px;
+  text-align: left;
+}
+.go-to-section {
+  padding-top: 80px;
+  display: block;
+  height: 1px;
+}
+a{
+  text-align: right;
+  text-decoration: none;
+  color: black;
+	margin-bottom: 10px;
+	opacity: 0.80;
+	letter-spacing: 1px;
+	font-weight: 400;
+	line-height: 1.6;
+}
+.footer{
+	padding: 5px;
+}
+
+@media only screen and (max-width: 1024px) {
+  .header-nav {
+    display: none;
+  }
+  .header-logo {
+    display: block;
+    width: 220px;
+    margin: 0 auto;
+  }
+ .header-facebook {
+    display: none;
+ }
+}

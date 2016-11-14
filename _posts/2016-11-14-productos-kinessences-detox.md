@@ -23,7 +23,7 @@ image: "kinessences-portada.png"
      <li><img src="img/groselleronegro.png" width="150" height="auto" alt="kinessences Detox en peluqueria Escandalo"></li>
      <li><img src="img/Guayaba.png" width="170" height="auto" alt="kinessences Detox en peluqueria Escandalo"></li>
      <li><img src="img/Datil.png" width="149" height="auto" alt="kinessences Detox en peluqueria Escandalo"></li>
-     <li><img src="img/Quandong.png" width="160" height="auto" alt="kinessences Detox en peluqueria Escandalo"></li>
+     <li><img src="img/quandong.png" width="160" height="auto" alt="kinessences Detox en peluqueria Escandalo"></li>
    </ul>
    <p>
    ¿Para qué tipo de cabellos aconsejamos la gama Kinessences Detox?

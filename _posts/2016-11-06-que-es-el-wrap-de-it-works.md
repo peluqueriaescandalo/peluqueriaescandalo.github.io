@@ -10,6 +10,7 @@ image: "wrap.png"
     ¿Quieres hacer algo para mejorar la flacidez de la piel en tu tripita y no sabes el que? ¿Quieres tonificar y reafirmar tu piel? ¿Has probado varios productos sin resultados?</p>
     <p>
     No te preocupes hoy te vamos a hablar del Wrap de It works que ofrece resultados sorprendentes desde la primera sesión. </p>
+   </div>
    <div>
       <img src="img/logo-itworks.png" width="270" height="auto" alt="productos It Works en Escandalo Zaragoza">
    </div>

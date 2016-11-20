@@ -5,7 +5,6 @@ permalink:           /:title
 title:               Peluqueria Escandalo
 tagline:
 url:                 "http://www.peluqueriaescandalozaragoza.es"
-paginate:            1
 baseurl:             ""
 
 # About/contact
@@ -21,5 +20,3 @@ github:
 
 # Gems
 gems:
-  - jekyll-paginate
-  - jekyll-gist

@@ -12,8 +12,8 @@ layout: default
 			{% for post in site.posts %}
 				<li>
 					<a href="{{site.url}}{{ post.url | preprend: site.url }}" title="{{ post.title }}">
-						<img src="{{site.url}}/img/{{ post.image }}" width="220" height="auto" alt="{{ post.title }}"/>
-					</a> 
+						<img src="{{site.url}}/img/{{ post.image }}" width="220" height="320" alt="{{ post.title }}"/>
+					</a>
 				</li>
 			{% endfor %}
 		</ul>

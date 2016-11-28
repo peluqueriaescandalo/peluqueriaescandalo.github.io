@@ -11,7 +11,7 @@ image: "tendencias-color-post.png"
    </p>
    </div>
    <div>
-      <img src="img/tendencias-de-color-invierno.png" width="270" height="auto" alt="productos Kinessences en Escandalo Zaragoza">
+      <img src="img/tendencias-de-color-invierno.png" width="400" height="auto" alt="productos Kinessences en Escandalo Zaragoza">
    </div>
    <p>
    Quizás la pauta que más sobresale en los colores del pelo de este invierno es el hecho de que la mayoría de los colores parecen ser perfectamente naturales, tanto para los cabellos rubios como para los castaños.

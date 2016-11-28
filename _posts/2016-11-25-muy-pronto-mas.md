@@ -11,7 +11,7 @@ image: "mas-noticias.png"
     <p>
      La semana que viene te traeremos otro articulo, mientras tanto visitanos en Facebook:
      <div class="header-facebook">
-       <a href="https://www.facebook.com/peluqueria.escandalo?fref=ts"> <img src="{{ site.url }}/img/facebook.png" width="50" height="auto" alt="facebook peluqueria escandalo"> </a>
+      <a href="https://www.facebook.com/peluqueria.escandalo"> <img src="{{ site.url }}/img/facebook.png" width="50" height="auto" alt="facebook peluqueria escandalo"> </a>
      </div>
     </p>
   </div>

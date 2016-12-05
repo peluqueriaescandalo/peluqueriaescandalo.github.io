@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Las 10 mejores verduras de invierno para tu cabello"
-image: "10-mejores-verduras-post.png"
+image: "post-verduras.png"
 ---
 
  <article class="container mod-row">
@@ -11,7 +11,7 @@ image: "10-mejores-verduras-post.png"
    </p>
    </div>
    <div>
-      <img src="img/10-mejores-verduras.png" width="250" height="auto" alt="Las 10 mejores verduras para comer este invierno">
+      <img src="img/sopa.jpg" width="340" height="auto" alt="Las 10 mejores verduras para comer este invierno">
    </div>
    <p>
     Sigue leyendo para conocer algunos alimentos ricos en vitaminas que puedes incorporar a tu dieta para nutrir tu cabello.

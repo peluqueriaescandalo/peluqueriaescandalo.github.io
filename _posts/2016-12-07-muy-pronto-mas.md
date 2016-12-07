@@ -4,9 +4,6 @@ title: Muy pronto mas noticias
 image: "mas-noticias.png"
 ---
 <article class="container mod-row">
-  <div>
-     <img src="img/noticias.jpg" width="600" height="auto" alt="Las 10 mejores verduras para comer este invierno">
-  </div>
   <div class="container-item-text-left">
     <p>
      La semana que viene te traeremos otro articulo, mientras tanto visitanos en:
@@ -16,4 +13,7 @@ image: "mas-noticias.png"
        <li><a href="https://www.instagram.com/peluqueria_escandalo/?hl=es" title="Twitter">Instagram</a></li>
      </ul>
     </p>
+  </div>
+  <div>
+     <img src="img/noticias.jpg" width="600" height="auto" alt="Las 10 mejores verduras para comer este invierno">
   </div>

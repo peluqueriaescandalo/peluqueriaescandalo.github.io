@@ -11,7 +11,7 @@ permalink: /servicios/
     Te esperamos de lunes a viernes de  9h30 a 18h00 y los sabados de 9h00 a 13h00
   </p>
   <p>
-    <a class="button" href="www.peluqueriaescandalozaragoza.es/formulario">Reservar</a>
+    <a class="button" href="{{ site.url }}/formulario/">Reservar</a>
   </p>
   <p>
     Estamos en Calle Lasierra Purroy, 7, 50007 Zaragoza <a href="https://www.google.fr/maps/place/Escandalo/@41.631824,-0.8865971,17z/data=!3m1!4b1!4m5!3m4!1s0xd591518d8fb6ce3:0x31cb6f33cc25090e!8m2!3d41.631824!4d-0.8844084">(ver en google maps)</a>

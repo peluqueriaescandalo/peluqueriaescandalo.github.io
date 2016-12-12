@@ -36,7 +36,7 @@ image: "post-verduras.png"
     </p>
     <img src="img/calabazas-invierno.jpg" width="400" height="auto" alt="Calabaza mejores verduras invierno">
     <p>
-    ¡Prepárate para probar la bondad de la calabaza! La calabaza bellota, Butternut, Kabocha y Delicata están en su mejor momento durante el otoño y el invierno. La carne de calabaza ofrce riqueza en forma de carotenoides, vitamina A, y potasio. Este último ayuda a mantener el cabello saludable y mejora su crecimiento.
+    ¡Prepárate para probar la bondad de la calabaza! La calabaza bellota, Butternut, Kabocha y Delicata están en su mejor momento durante el otoño y el invierno. La carne de calabaza ofrece riqueza en forma de carotenoides, vitamina A, y potasio. Este último ayuda a mantener el cabello saludable y mejora su crecimiento.
     </p>
     <p>
     4. Remolacha

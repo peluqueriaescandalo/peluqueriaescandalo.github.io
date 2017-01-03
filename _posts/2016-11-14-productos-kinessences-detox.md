@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Te presentamos la gama Kinessences Detox
+layout: "post"
+title: "Te presentamos la gama Kinessences Detox"
 image: "kinessences-portada.png"
 ---
 

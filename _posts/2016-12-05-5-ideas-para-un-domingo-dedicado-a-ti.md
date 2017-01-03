@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: "post"
 title: "5 ideas para un domingo dedicado a ti"
 image: "5-ideas-domingo.png"
 ---

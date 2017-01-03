@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Tendencias de color para tu cabello para este Invierno ☃️
+layout: "post"
+title: "Tendencias de color para tu cabello para este Invierno ☃️"
 image: "tendencias-color-post.png"
 ---
 

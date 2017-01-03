@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: "post"
 title:  "Consejos y trucos para tener un cabello más grueso"
 image: "Consejos-trucos-cabello-mas-grueso.png"
 ---

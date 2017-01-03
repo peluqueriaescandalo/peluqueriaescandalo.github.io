@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: "post"
 title: "Caída del cabello en la mujer"
-image: caida-cabello-mujer.png
+image: "caida-cabello-mujer.png"
 ---
 
 <article class="container mod-row">

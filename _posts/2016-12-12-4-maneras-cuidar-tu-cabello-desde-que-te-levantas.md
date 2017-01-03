@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: "post"
 title: "4 maneras de cuidar tu cabello desde que te levantas"
 image: "4-maneras-cuidar.png"
 ---

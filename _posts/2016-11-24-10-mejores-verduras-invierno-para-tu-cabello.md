@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: "post"
 title: "Las 10 mejores verduras de invierno para tu cabello"
 image: "post-verduras.png"
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: "post"
 title: "5 peinados para afinar tu cara"
 image: "5-peinados-v2.png"
 ---

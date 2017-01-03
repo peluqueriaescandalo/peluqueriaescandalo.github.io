@@ -1,6 +1,6 @@
 ---
-layout: post
-title: ¿Qué es el Wrap de it works?
+layout: "post"
+title: "¿Qué es el Wrap de it works?"
 image: "wrap.png"
 ---
 

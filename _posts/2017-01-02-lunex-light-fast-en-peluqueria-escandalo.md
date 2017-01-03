@@ -1,4 +1,5 @@
 ---
+layout: "post"
 title:  "Lunex Light Fast en peluquería Escándalo"
 image: "lunex-light-fast-en-peluqueria-escandalo.png"
 ---

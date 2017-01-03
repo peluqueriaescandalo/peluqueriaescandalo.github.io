@@ -13,7 +13,7 @@ image: "lunex-light-fast-en-peluqueria-escandalo.png"
   </p>
   </div>
   <div>
-     <img src="img/lunex.png" width="280" height="auto" alt="pelo-rizado peluquería Escándalo">
+     <img src="img/lunex.png" width="280" height="auto" alt="productos Lunex peluquería Escándalo">
   </div>
   <p>
   El Lunex Ligth Fast es un tratamiento cosmético para aclarar el cabello que no necesita aclarado de acción rápida. <br>
@@ -43,7 +43,7 @@ image: "lunex-light-fast-en-peluqueria-escandalo.png"
   - Aporta brillo a tu cabello.
   </p>
   <div>
-     <img src="img/articulo-Lunex.jpeg" width="300" height="auto" alt="Lunex Light Fast de Lunex en peluqueria Escándalo">
+     <img src="img/articulo-lunex.jpeg" width="300" height="auto" alt="Lunex Light Fast de Lunex en peluqueria Escándalo">
   </div>
   <p>
   Para más información echa un ojo al tutorial de la marca:

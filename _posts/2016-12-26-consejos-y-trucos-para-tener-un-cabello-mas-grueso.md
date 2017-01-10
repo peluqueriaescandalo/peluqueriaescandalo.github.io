@@ -49,22 +49,21 @@ image: "Consejos-trucos-cabello-mas-grueso.png"
    <img src="img/beauty.jpg" width="500" height="auto" alt="pelo-rizado peluquería Escándalo">
 </div>
   <p> # 3:<a href="http://www.peluqueriaescandalozaragoza.es/10-mejores-verduras-invierno-para-tu-cabello"> Alimentos que benefician a tu cabello<a>
-  </p>
   <p>
     Si ves que tu cabello se está empobreciendo o sufres de pérdida del cabello, es necesario revisar tu dieta. Comienza la rehabilitación de tu cabello comiendo alimentos saludables, especialmente productos que contengan:
-    </p>
-    <p>
+   </p>
+   <p>
      - Proteína, es esencial para el crecimiento del cabello (huevos, leche, yogur, pescado y mariscos, soja, pistachos, cerdo, pollo y  pavo)
-     </p>
-     <p>
+   </p>
+   <p>
      - Hierro, ayuda a producir aceites en el cuero cabelludo (verduras de hoja verde oscuro, tales como espinacas y brócoli, carne roja, mariscos, frijoles, frutos secos, tales como pasas y albaricoques, guisantes).
-     </p>
-     <p>                                                                                
+   </p>
+   <p>                                                                                
     - Vitaminas A y C (batatas, zanahorias, hojas verdes oscuras, calabazas de invierno, lechuga, albaricoques secos, melón, pimientos, pescado, hígado y frutas tropicales).
-    </p>
-    <p>                            
+   </p>
+   <p>                            
      - Ácidos grasos omega 3 para un cuero cabelludo más saludable (pescado graso como el salmón y mariscos, nueces, aceite de linaza, aceite de pescado, huevas de pescado, soja, espinaca).
-  </p>
+   </p>
   <p> # 4: Vitaminas para el cabello más grueso</p>
   <p>
     Si deseas promover el crecimiento de tu cabello y tu belleza, te dejamos una lista de las vitaminas más importantes para el crecimiento del cabello y el espesor:

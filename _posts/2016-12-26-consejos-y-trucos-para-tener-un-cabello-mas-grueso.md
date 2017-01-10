@@ -45,51 +45,52 @@ image: "Consejos-trucos-cabello-mas-grueso.png"
   <p>
     Un masaje diario del cuero cabelludo activa el rápido crecimiento del cabello y normaliza la actividad de las glándulas sebáceas. Mejora la nutrición de tu cuero cabelludo, haciendo las raíces más fuertes y evitando la pérdida. Masajea la cabeza con movimientos circulares y fáciles de los dedos durante 10 minutos. Es mejor empezar desde la coronilla y trabajar hacia la frente y la parte posterior.
   </p>
-<div>
+  <div>
    <img src="img/beauty.jpg" width="500" height="auto" alt="pelo-rizado peluquería Escándalo">
-</div>
+  </div>
   <p> # 3:<a href="http://www.peluqueriaescandalozaragoza.es/10-mejores-verduras-invierno-para-tu-cabello"> Alimentos que benefician a tu cabello<a>
+  </p>
   <p>
     Si ves que tu cabello se está empobreciendo o sufres de pérdida del cabello, es necesario revisar tu dieta. Comienza la rehabilitación de tu cabello comiendo alimentos saludables, especialmente productos que contengan:
-   </p>
-   <p>
-     - Proteína, es esencial para el crecimiento del cabello (huevos, leche, yogur, pescado y mariscos, soja, pistachos, cerdo, pollo y  pavo)
-   </p>
-   <p>
-     - Hierro, ayuda a producir aceites en el cuero cabelludo (verduras de hoja verde oscuro, tales como espinacas y brócoli, carne roja, mariscos, frijoles, frutos secos, tales como pasas y albaricoques, guisantes).
-   </p>
-   <p>                                                                                
+  </p>
+  <p>
+    - Proteína, es esencial para el crecimiento del cabello (huevos, leche, yogur, pescado y mariscos, soja, pistachos, cerdo, pollo y  pavo)
+  </p>
+  <p>
+    - Hierro, ayuda a producir aceites en el cuero cabelludo (verduras de hoja verde oscuro, tales como espinacas y brócoli, carne roja, mariscos, frijoles, frutos secos, tales como pasas y albaricoques, guisantes).
+  </p>
+  <p>                                                                                
     - Vitaminas A y C (batatas, zanahorias, hojas verdes oscuras, calabazas de invierno, lechuga, albaricoques secos, melón, pimientos, pescado, hígado y frutas tropicales).
-   </p>
-   <p>                            
+  </p>
+  <p>                            
      - Ácidos grasos omega 3 para un cuero cabelludo más saludable (pescado graso como el salmón y mariscos, nueces, aceite de linaza, aceite de pescado, huevas de pescado, soja, espinaca).
-   </p>
+  </p>
   <p> # 4: Vitaminas para el cabello más grueso</p>
   <p>
     Si deseas promover el crecimiento de tu cabello y tu belleza, te dejamos una lista de las vitaminas más importantes para el crecimiento del cabello y el espesor:
-    </p>
-    <p>
+  </p>
+  <p>
     - Vitamina A que es responsable de la producción de aceite de cuero cabelludo (sebo).
-    </p>
-    <p>
+  </p>
+  <p>
     - Complejo de la vitamina B (B-6, B-12 y B-3) que es beneficioso para la belleza del pelo y la salud general también.
-    </p>
-    <p>
+  </p>
+  <p>
     - Con la vitamina E tendrás buena circulación de la sangre en el cuero cabelludo para mejorar la calidad de tu pelo.
-    </p>
-    <p>
+  </p>
+  <p>
     - El ácido fólico puede desempeñar un papel importante en el tratamiento y la prevención de la pérdida de cabello.
-    </p>
-    <p>
+  </p>
+  <p>
     - El Omega-3 es un ácido graso importante para un pelo sano.
-    </p>
-    <p>
+  </p>
+  <p>
     - El zinc y hierro son esenciales para un cabello más y más grueso y su crecimiento.
-    </p>
-    <p>
+  </p>
+  <p>
     - El inositol juega un papel importante en el espesamiento del cabello ya que tiene propiedades antioxidantes para tener unos folículos pilosos sanos.
-    </p>
-    <p>
+  </p>
+  <p>
     - La biotina, llamada "comida para el cabello", es uno de los mejores tratamientos para la pérdida del cabello.
   </p>
   <p>
@@ -115,9 +116,9 @@ image: "Consejos-trucos-cabello-mas-grueso.png"
   <p>
     Unas simples trenzas pueden hacer que el pelo fino parezca más grueso. ¿Cómo? Después de trenzar el cabello, tira suavemente de tu trenza, hará el pelo más ancho y lacio. Esta técnica eficaz funciona para cualquier tipo de trenza.
   </p>
-    <div>
-       <img src="img/trenzas.jpg" width="400" height="auto" alt="pelo-rizado peluquería Escándalo">
-    </div>
+  <div>
+    <img src="img/trenzas.jpg" width="400" height="auto" alt="pelo-rizado peluquería Escándalo">
+  </div>
   <p>  Ondas voluminosas  con rulos de velcro</p>
   <p>
     También hay un método simple para dar volumen a tu pelo: rulos de velcro. Utiliza 2 o 3 rulos en la corona de la cabeza y consigue un estilo ondulado atractivo perfecto para cualquier ocasión! Coloca los rodillos sólo en el cabello seco, usando un spray de textura seca. Déjalos en el pelo durante unos 10-30 minutos y pasado ese tiempo quitalos.

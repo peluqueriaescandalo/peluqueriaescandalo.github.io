@@ -48,7 +48,8 @@ image: "Consejos-trucos-cabello-mas-grueso.png"
 <div>
    <img src="img/beauty.jpg" width="500" height="auto" alt="pelo-rizado peluquería Escándalo">
 </div>
-  <p> # 3:<a href="http://www.peluqueriaescandalozaragoza.es/10-mejores-verduras-invierno-para-tu-cabello"> Alimentos que benefician a tu cabello<a></p>
+  <p> # 3:<a href="http://www.peluqueriaescandalozaragoza.es/10-mejores-verduras-invierno-para-tu-cabello"> Alimentos que benefician a tu cabello<a>
+  </p>
   <p>
     Si ves que tu cabello se está empobreciendo o sufres de pérdida del cabello, es necesario revisar tu dieta. Comienza la rehabilitación de tu cabello comiendo alimentos saludables, especialmente productos que contengan:
     </p>

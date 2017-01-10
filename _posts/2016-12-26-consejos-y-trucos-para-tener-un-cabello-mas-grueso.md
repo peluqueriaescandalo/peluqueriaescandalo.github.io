@@ -27,10 +27,18 @@ image: "Consejos-trucos-cabello-mas-grueso.png"
     #1: Secretos de la ducha
   </p>
   <p>
-    Lavar tu cabello es el primer paso en el camino hacia el espesor. Lavarse el cabello con demasiada frecuencia es una mala idea. Cuando se lava todos los días, el cuero cabelludo se vuelve más seco y alienta a las glándulas sebáceas a producir más sebo de lo que normalmente hacen con lo que tu cabello se vuelve más graso. También cuando se lava el cabello, hay que prestar siempre atención a la temperatura del agua: el agua tibia es buena, el agua caliente es mala. Cuando las glándulas sebáceas funcionan normalmente, el cuero cabelludo está sano y también lo está tu cabello.
+    Lavar tu cabello es el primer paso en el camino hacia el espesor. Lavarse el cabello con demasiada frecuencia es una mala idea. Cuando se lava todos los días, el cuero cabelludo se vuelve más seco y alienta a las glándulas sebáceas a producir más sebo de lo que normalmente hacen con lo que tu cabello se vuelve más graso.
+    Cuando las glándulas sebáceas funcionan normalmente, el cuero cabelludo está sano y también lo está tu cabello.
   </p>
   <p>
-    Uso de productos capilares con ingredientes naturales
+    Además cuando te laves el pelo tienes que prestar siempre atención a la temperatura del agua: el agua tibia es buena, el agua caliente es mala.
+  </p>
+  <p>
+  </p>
+  <p>
+    Uso de productos capilares con ingredientes naturales:
+  </p>
+  <p>
     Una de las principales causas del adelgazamiento y la pérdida del cabello son el uso de productos para el cabello. Evita los champús a base de productos químicos, acondicionadores y productos de este estilo - muchos de ellos lavan los aceites naturales de tu cuero cabelludo, y los necesitamos  para dar fuerza y  elasticidad al cabello. Por eso es importante utilizar productos que contengan ingredientes naturales como los de la gama <a href="{{ site.url }}/productos-kinessences-detox">Kin Essences.</a>
   </p>
   <p> # 2: Masaje del cuero cabelludo para un crecimiento más rápido y más grueso del pelo</p>
@@ -42,23 +50,47 @@ image: "Consejos-trucos-cabello-mas-grueso.png"
 </div>
   <p> # 3: Alimentos que benefician a tu cabello</p>
   <p>
-    Si ves que tu cabello se está empobreciendo o sufres de pérdida del cabello, es necesario revisar tu dieta. Comienza la rehabilitación de tu cabello comiendo alimentos saludables, especialmente productos que contengan:<br>
-     - Proteína, es esencial para el crecimiento del cabello (huevos, leche, yogur, pescado y mariscos, soja, pistachos, cerdo, pollo y  pavo)<br>
-     - Hierro, ayuda a producir aceites en el cuero cabelludo (verduras de hoja verde oscuro, tales como espinacas y brócoli, carne roja, mariscos, frijoles, frutos secos, tales como pasas y albaricoques, guisantes).<br>                                                                                    
-    - Vitaminas A y C (batatas, zanahorias, hojas verdes oscuras, calabazas de invierno, lechuga, albaricoques secos, melón, pimientos, pescado, hígado y frutas tropicales).<br>                             
-     - Ácidos grasos omega 3 para un cuero cabelludo más saludable (pescado graso como el salmón y mariscos, nueces, aceite de linaza, aceite de pescado, huevas de pescado, soja, espinaca).<br>
+    Si ves que tu cabello se está empobreciendo o sufres de pérdida del cabello, es necesario revisar tu dieta. Comienza la rehabilitación de tu cabello comiendo alimentos saludables, especialmente productos que contengan:
+    </p>
+    <p>
+     - Proteína, es esencial para el crecimiento del cabello (huevos, leche, yogur, pescado y mariscos, soja, pistachos, cerdo, pollo y  pavo)
+     </p>
+     <p>
+     - Hierro, ayuda a producir aceites en el cuero cabelludo (verduras de hoja verde oscuro, tales como espinacas y brócoli, carne roja, mariscos, frijoles, frutos secos, tales como pasas y albaricoques, guisantes).
+     </p>
+     <p>                                                                                
+    - Vitaminas A y C (batatas, zanahorias, hojas verdes oscuras, calabazas de invierno, lechuga, albaricoques secos, melón, pimientos, pescado, hígado y frutas tropicales).
+    </p>
+    <p>                            
+     - Ácidos grasos omega 3 para un cuero cabelludo más saludable (pescado graso como el salmón y mariscos, nueces, aceite de linaza, aceite de pescado, huevas de pescado, soja, espinaca).
   </p>
   <p> # 4: Vitaminas para el cabello más grueso</p>
   <p>
-    Si deseas promover el crecimiento de tu cabello y tu belleza, te dejamos una lista de las vitaminas más importantes para el crecimiento del cabello y el espesor:<br>
-    - Vitamina A que es responsable de la producción de aceite de cuero cabelludo (sebo).<br>
-    - Complejo de la vitamina B (B-6, B-12 y B-3) que es beneficioso para la belleza del pelo y la salud general también.<br>
-    - Con la vitamina E tendrás buena circulación de la sangre en el cuero cabelludo para mejorar la calidad de tu pelo.<br>
-    - El ácido fólico puede desempeñar un papel importante en el tratamiento y la prevención de la pérdida de cabello.<br>
-    - El Omega-3 es un ácido graso importante para un pelo sano.<br>
-    - El zinc y hierro son esenciales para un cabello más y más grueso y su crecimiento.<br>
-    - El inositol juega un papel importante en el espesamiento del cabello ya que tiene propiedades antioxidantes para tener unos folículos pilosos sanos.<br>
-    - La biotina, llamada "comida para el cabello", es uno de los mejores tratamientos para la pérdida del cabello.<br>
+    Si deseas promover el crecimiento de tu cabello y tu belleza, te dejamos una lista de las vitaminas más importantes para el crecimiento del cabello y el espesor:
+    </p>
+    <p>
+    - Vitamina A que es responsable de la producción de aceite de cuero cabelludo (sebo).
+    </p>
+    <p>
+    - Complejo de la vitamina B (B-6, B-12 y B-3) que es beneficioso para la belleza del pelo y la salud general también.
+    </p>
+    <p>
+    - Con la vitamina E tendrás buena circulación de la sangre en el cuero cabelludo para mejorar la calidad de tu pelo.
+    </p>
+    <p>
+    - El ácido fólico puede desempeñar un papel importante en el tratamiento y la prevención de la pérdida de cabello.
+    </p>
+    <p>
+    - El Omega-3 es un ácido graso importante para un pelo sano.
+    </p>
+    <p>
+    - El zinc y hierro son esenciales para un cabello más y más grueso y su crecimiento.
+    </p>
+    <p>
+    - El inositol juega un papel importante en el espesamiento del cabello ya que tiene propiedades antioxidantes para tener unos folículos pilosos sanos.
+    </p>
+    <p>
+    - La biotina, llamada "comida para el cabello", es uno de los mejores tratamientos para la pérdida del cabello.
   </p>
   <p>
     Ten en cuenta que sólo un médico puede darte una respuesta cualificada sobre el tipo de suplementos que necesitas para detener la pérdida de cabello.
@@ -71,8 +103,8 @@ image: "Consejos-trucos-cabello-mas-grueso.png"
   <p>
   # 6: Peinados que hacen que el pelo fino se vea más grueso</p>
   <p>
-    Puede parecer que el pelo más largo es más saludable que el pelo corto, sin embargo no es así. A menudo, un peinado corto te permite esconder el cabello fino. Por lo tanto, puedes llevar un corte mono, bob,  por ejemplo con un flequillo lateral. Raparse la cabeza también es útil ... es broma!. Si no te gusta un clásico bob, prueba las capas - te darán volumen y una mirada desmarañada y sin esfuerzo.
-    No olvides cortarte el cabello cada 1-2 meses para deshacerse de las puntas dañadas.
+    Puede parecer que el pelo más largo es más saludable que el pelo corto, sin embargo no es así. A menudo, un peinado corto te permite esconder el cabello fino. Por lo tanto, puedes llevar un corte mono, bob,  por ejemplo con un flequillo lateral. Raparse la cabeza también es útil ... es broma!. Si no te gusta un clásico bob, prueba las capas - te darán volumen y una mirada desmarañada y sin esfuerzo.<br>
+    No olvides cortarte el cabello cada 2-3 meses para deshacerse de las puntas dañadas.
   </p>
   <div>
      <img src="img/pelo-corto-grosor-pelo.jpg" width="350" height="auto" alt="pelo-rizado peluquería Escándalo">

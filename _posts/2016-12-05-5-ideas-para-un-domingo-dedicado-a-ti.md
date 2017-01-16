@@ -31,7 +31,7 @@ image: "5-ideas-domingo.png"
     3. Hidrataté
     </p>
     <p>
-    La hidratación es el gesto capital de rutina de belleza. Si bien la crema hidratante es un reflejo sistemático en los cuidados faciales de la mañana, el domingo aprovechamos para darle al cuerpo la hidratación que se merece. Después de la exfoliación, la piel está lista para recibir este tratamiento salvador. A nosotras nos gusta utilizar la <a href="http://escandalo.itworks.com/shop/product/212/"> crema STRETCH MARK de it works </a> que deja tu piel suave y tersa.
+    La hidratación es el gesto capital de rutina de belleza. Si bien la crema hidratante es un reflejo sistemático en los cuidados faciales de la mañana, el domingo aprovechamos para darle al cuerpo la hidratación que se merece. Después de la exfoliación, la piel está lista para recibir este tratamiento salvador. A nosotras nos gusta utilizar la <a class="link" href="http://escandalo.itworks.com/shop/product/212/"> crema STRETCH MARK de it works </a> que deja tu piel suave y tersa.
     </p>
     <p>
     4. Hazte una mascarilla

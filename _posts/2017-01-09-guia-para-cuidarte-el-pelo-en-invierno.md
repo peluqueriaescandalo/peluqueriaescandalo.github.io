@@ -32,13 +32,13 @@ image: "guia-para-cuidarte-el-pelo-en-invierno.png"
   3. Hidratalo.
   </p>
   <p>
-  El viento frío, especialmente el cierzo, el aire seco, la baja temperatura .... Todo esto está apagando el brillo y la energía de tu cabello. La hidratación es extremadamente importante, pero en los meses de invierno se convierte en parte integrante de su rutina de cuidado del cabello. Cosas como el secador de pelo y el aire del invierno agotan la hidratación del cabello y el cuero cabelludo. Te recomendamos que <a href="http://www.peluqueriaescandalozaragoza.es/productos-kinessences-detox"> nutras profundamente tu cabello </a>una vez por semana y uses un acondicionador o aceite de forma regular. En Escandalo podemos aconsejarte los productos que más se adapten a tu cabello.
+  El viento frío, especialmente el cierzo, el aire seco, la baja temperatura .... Todo esto está apagando el brillo y la energía de tu cabello. La hidratación es extremadamente importante, pero en los meses de invierno se convierte en parte integrante de su rutina de cuidado del cabello. Cosas como el secador de pelo y el aire del invierno agotan la hidratación del cabello y el cuero cabelludo. Te recomendamos que <a class="link" href="http://www.peluqueriaescandalozaragoza.es/productos-kinessences-detox"> nutras profundamente tu cabello </a>una vez por semana y uses un acondicionador o aceite de forma regular. En Escandalo podemos aconsejarte los productos que más se adapten a tu cabello.
   </p>
   <div>
      <img src="img/guia-para-cuidarte-el-pelo-en-invierno-3.jpg" width="500" height="auto" alt="Consejos peluqueria Escándalo">
   </div>
   <p>
-  4. <a href="http://www.peluqueriaescandalozaragoza.es/Errores-que-puedes-estar">Secalo correctamente.</a>
+  4. <a class="link" href="http://www.peluqueriaescandalozaragoza.es/Errores-que-puedes-estar">Secalo correctamente.</a>
   </p>
   <p>
   Trata de no secar demasiado el cabello, ya que demasiado calor causará deshidratación. Si alguna vez decides salir de  casa con el pelo ligeramente mojado - piensalo dos veces. Salir en invierno con el pelo sin secar correctamente puede conducir a un montón de problemas, no sólo con el cabello y el cuero cabelludo, sino también con tu salud general. Por lo tanto, asegúrate de hacerlo antes de salir de la casa.
@@ -59,7 +59,7 @@ image: "guia-para-cuidarte-el-pelo-en-invierno.png"
   7. ¡Cubre tu pelo! <br>
   </p>
   <p>
-  Sombreros, bufandas, gorros de lana ... lo que te guste más. Basta con mantener el cabello cubierto de todos los elementos externos. Ya sabemos que los gorros dejan al cabello sin volumen, por eso puedes llevar en el bolso <a href="http://www.peluqueriaescandalozaragoza.es/4-maneras-cuidar-tu-cabello-desde-que-te-levantas">una cera o producto para dar volumen</a> a tu peinado después de quitarte el gorro.
+  Sombreros, bufandas, gorros de lana ... lo que te guste más. Basta con mantener el cabello cubierto de todos los elementos externos. Ya sabemos que los gorros dejan al cabello sin volumen, por eso puedes llevar en el bolso <a class="link" href="http://www.peluqueriaescandalozaragoza.es/4-maneras-cuidar-tu-cabello-desde-que-te-levantas">una cera o producto para dar volumen</a> a tu peinado después de quitarte el gorro.
   </p>
   <div>
      <img src="img/guia-para-cuidarte-el-pelo-en-invierno-4.jpg" width="500" height="auto" alt="protege tu pelo del frio">

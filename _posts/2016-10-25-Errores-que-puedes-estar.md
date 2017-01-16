@@ -23,7 +23,7 @@ image: "errores-secandote-pelo.png"
    </p>
    <p>3. No estar usando el producto correcto para tu tipo de pelo</p>
    <p>
-    Dependiendo de tu tipo de cabello, usar el producto equivocado puede hacer que el pelo se vea chafado, sin volumen  o incluso que no te lo puedas manejar correctamente. Para cabellos finos te recomendamos el Smoothie de la gama Kinessences Detox de Kin cosmetics. Producto a base de productos naturales que aporta suavidad y brillo a tu cabello evitando el encrespamiento.
+    Dependiendo de tu tipo de cabello, usar el producto equivocado puede hacer que el pelo se vea chafado, sin volumen  o incluso que no te lo puedas manejar correctamente. Para cabellos finos te recomendamos el Smoothie de la gama <a class="link" href= "http://www.peluqueriaescandalozaragoza.es/productos-kinessences-detoxKinessences" Detox de Kin cosmetics</a>. Producto a base de productos naturales que aporta suavidad y brillo a tu cabello evitando el encrespamiento.
    </p>
    <p>4. Usar un peine que no es apropiado</p>
    <p>

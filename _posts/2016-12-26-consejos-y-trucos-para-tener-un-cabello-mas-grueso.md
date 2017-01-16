@@ -11,11 +11,11 @@ image: "Consejos-trucos-cabello-mas-grueso.png"
   </p>
   </div>
   <div>
-     <img src="img/fashion.jpg" width="280" height="auto" alt="pelo-rizado peluquería Escándalo">
+     <img src="img/fashion.jpg" width="280" height="auto" alt="trucos para tener un cabello más grueso peluquería Escándalo">
   </div>
   <p>
   ¿Por qué tu pelo parece sin vida?<br>
-  Hay un montón de razones por las que el cabello “pierde”. Puede ser el resultado del estrés, una mala nutrición, la falta de algunas vitaminas u hormonas en tu cuerpo, infecciones del cuero cabelludo, etc. Si sufres una <a href="{{ site.url }}/caida-de-cabello-en-la-mujer">pérdida grave del cabello</a> te recomendamos visitar a tu médico para averiguar la verdadera razón de este problema. Los siguientes consejos muestran cómo “espesar” el pelo de forma natural y sin riesgos.
+  Hay un montón de razones por las que el cabello “pierde”. Puede ser el resultado del estrés, una mala nutrición, la falta de algunas vitaminas u hormonas en tu cuerpo, infecciones del cuero cabelludo, etc. Si sufres una <a class="link" href="{{ site.url }}/caida-de-cabello-en-la-mujer">pérdida grave del cabello</a> te recomendamos visitar a tu médico para averiguar la verdadera razón de este problema. Los siguientes consejos muestran cómo “espesar” el pelo de forma natural y sin riesgos.
   </p>
   <p>
     6 secretos para hacer que el pelo fino sea más grueso
@@ -39,14 +39,14 @@ image: "Consejos-trucos-cabello-mas-grueso.png"
     Uso de productos capilares con ingredientes naturales:
   </p>
   <p>
-    Una de las principales causas del adelgazamiento y la pérdida del cabello son el uso de productos para el cabello. Evita los champús a base de productos químicos, acondicionadores y productos de este estilo - muchos de ellos lavan los aceites naturales de tu cuero cabelludo, y los necesitamos  para dar fuerza y  elasticidad al cabello. Por eso es importante utilizar productos que contengan ingredientes naturales como los de la gama <a href="{{ site.url }}/productos-kinessences-detox">Kin Essences.</a>
+    Una de las principales causas del adelgazamiento y la pérdida del cabello son el uso de productos para el cabello. Evita los champús a base de productos químicos, acondicionadores y productos de este estilo - muchos de ellos lavan los aceites naturales de tu cuero cabelludo, y los necesitamos  para dar fuerza y  elasticidad al cabello. Por eso es importante utilizar productos que contengan ingredientes naturales como los de la gama <a class="link" href="{{ site.url }}/productos-kinessences-detox">Kin Essences.</a>
   </p>
   <p> # 2: Masaje del cuero cabelludo para un crecimiento más rápido y más grueso del pelo</p>
   <p>
     Un masaje diario del cuero cabelludo activa el rápido crecimiento del cabello y normaliza la actividad de las glándulas sebáceas. Mejora la nutrición de tu cuero cabelludo, haciendo las raíces más fuertes y evitando la pérdida. Masajea la cabeza con movimientos circulares y fáciles de los dedos durante 10 minutos. Es mejor empezar desde la coronilla y trabajar hacia la frente y la parte posterior.
   </p>
   <div>
-   <img src="img/beauty.jpg" width="500" height="auto" alt="pelo-rizado peluquería Escándalo">
+   <img src="img/beauty.jpg" width="500" height="auto" alt="trucos para tener un cabello más grueso peluquería Escándalo">
   </div>
   <p>
   # 3: <a href="http://www.peluqueriaescandalozaragoza.es/10-mejores-verduras-invierno-para-tu-cabello">Alimentos que benefician a tu cabello</a>
@@ -109,7 +109,7 @@ image: "Consejos-trucos-cabello-mas-grueso.png"
     No olvides cortarte el cabello cada 2-3 meses para deshacerse de las puntas dañadas.
   </p>
   <div>
-     <img src="img/pelo-corto-grosor-pelo.jpg" width="350" height="auto" alt="pelo-rizado peluquería Escándalo">
+     <img src="img/pelo-corto-grosor-pelo.jpg" width="350" height="auto" alt="pelo corto peluquería Escándalo">
   </div>
   <p>
     Trenzas para el espesor del cabello
@@ -118,14 +118,14 @@ image: "Consejos-trucos-cabello-mas-grueso.png"
     Unas simples trenzas pueden hacer que el pelo fino parezca más grueso. ¿Cómo? Después de trenzar el cabello, tira suavemente de tu trenza, hará el pelo más ancho y lacio. Esta técnica eficaz funciona para cualquier tipo de trenza.
   </p>
   <div>
-    <img src="img/trenzas.jpg" width="400" height="auto" alt="pelo-rizado peluquería Escándalo">
+    <img src="img/trenzas.jpg" width="400" height="auto" alt="trenzas peluquería Escándalo">
   </div>
   <p>  Ondas voluminosas  con rulos de velcro</p>
   <p>
     También hay un método simple para dar volumen a tu pelo: rulos de velcro. Utiliza 2 o 3 rulos en la corona de la cabeza y consigue un estilo ondulado atractivo perfecto para cualquier ocasión! Coloca los rodillos sólo en el cabello seco, usando un spray de textura seca. Déjalos en el pelo durante unos 10-30 minutos y pasado ese tiempo quitalos.
   </p>
   <div>
-     <img src="img/pelo_rizado.jpg" width="600" height="auto" alt="pelo-rizado peluquería Escándalo">
+     <img src="img/pelo_rizado.jpg" width="600" height="auto" alt="pelo rizado peluquería Escándalo">
   </div>
   <p>
     Ahora ya sabes cómo conseguir un cabello más grueso. Hemos descrito los métodos más fáciles de seguir y asequibles. Esperamos que estos consejos te ayuden y si necesitas más información no dudes en contactarnos.😉

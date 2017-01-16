@@ -34,7 +34,7 @@ image: "wrap.png"
    <b>¿Cómo funciona el Wrap de It works?</b>
    </p>
    <p>
-   Es muy fácil, solo tienes que aplicarlo en la zona deseada, abdomen, espalda, muslos, brazos, cara (hay un producto especial facial<a href=" http://escandalo.itworks.com/shop/product/103/"> <font color="#7BE629">consultalo aqui</font></a>).
+   Es muy fácil, solo tienes que aplicarlo en la zona deseada, abdomen, espalda, muslos, brazos, cara (hay un producto especial facial<a class="link" href=" http://escandalo.itworks.com/shop/product/103/"> <font color="#7BE629">consultalo aqui</font></a>).
    Para ello puedes cortarlo en la forma que más te interese, asi con un solo parche puedes usarlo en los dos brazos por ejemplo.
    </p>
    <p>
@@ -42,7 +42,7 @@ image: "wrap.png"
    Ahora limpia lo zona, para ayudar al producto a que penetre mejor.
    </p>
    <p>
-   A continuación abre el sobre, extiende el parche, cortalo si es necesario y colócalo en la zona que deseas trabajar. Una vez colocado envuelvelo con el<a href="http://escandalo.itworks.com/shop/product/701/"> envoltorio hipoalergénico Fab Wrap</a> o simplemente con papel film para evitar que se mueva.
+   A continuación abre el sobre, extiende el parche, cortalo si es necesario y colócalo en la zona que deseas trabajar. Una vez colocado envuelvelo con el<a class="link" href="http://escandalo.itworks.com/shop/product/701/"> envoltorio hipoalergénico Fab Wrap</a> o simplemente con papel film para evitar que se mueva.
    <p>
    Déjalo actuar durante 45 minutos. ⏰
    </p>

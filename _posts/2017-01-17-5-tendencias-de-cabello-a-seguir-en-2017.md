@@ -56,7 +56,7 @@ image: "5-tendencias-2017.png"
   <h3>El corte Pixie</h3>
   </p>
   <p>
-  En 2017, es todo o nada! El corte corto a lo chico vuelve a la carga para nuestro disfrute. ¿La combinación correcta? Cabellos muy cortos y un fuerte color rojo en los labios para despertar y feminizar el conjunto. 💄 
+  En 2017, es todo o nada! El corte corto a lo chico vuelve a la carga para nuestro disfrute. ¿La combinación correcta? Cabellos muy cortos y un fuerte color rojo en los labios para despertar y feminizar el conjunto. 💄
   </p>
   <div>
      <img src="img/pixie.png" width="400" height="auto" alt="tendencias 2017 peluqueria Escándalo Zaragoza">

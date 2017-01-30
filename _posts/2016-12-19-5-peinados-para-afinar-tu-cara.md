@@ -2,6 +2,7 @@
 layout: "post"
 title: "5 peinados para afinar tu cara"
 image: "5-peinados-v2.png"
+description: "Quieres afinar tus rasgos con tu corte de pelo? No busques mas te proponemos 5 peinados que te ayudaran con este cometido"
 ---
 
 <article class="container mod-row">

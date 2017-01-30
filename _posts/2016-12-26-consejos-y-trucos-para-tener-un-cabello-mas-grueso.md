@@ -2,6 +2,7 @@
 layout: "post"
 title:  "Consejos y trucos para tener un cabello más grueso"
 image: "Consejos-trucos-cabello-mas-grueso.png"
+description: "Te presentamos unos cuantos trucos para tener un cabello más grueso"
 ---
 
 <article class="container mod-row">

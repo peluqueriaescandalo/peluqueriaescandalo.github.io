@@ -2,6 +2,7 @@
 layout: "post"
 title: "8 Errores que puedes estar cometiendo cuando te secas el pelo"
 image: "errores-secandote-pelo.png"
+description: "Si te preguntas si te secas el pelo correctamente aqui encontraras los errores comunes que puedes estar cometiendo y que dañan tu cabello"
 ---
 
  <article class="container mod-row">

@@ -2,6 +2,7 @@
 layout: "post"
 title:  "Lunex Light Fast en peluquería Escándalo"
 image: "lunex-light-fast-en-peluqueria-escandalo.png"
+description: "Si quieres obtener reflejos en 5 minutos, el Lunex Light Fast es la solucion que estas buscando y ya esta disponible en peluquería Escándalo"
 ---
 
 <article class="container mod-row">

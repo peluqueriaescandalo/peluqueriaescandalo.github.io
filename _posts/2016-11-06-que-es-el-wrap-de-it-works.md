@@ -2,6 +2,7 @@
 layout: "post"
 title: "¿Qué es el Wrap de it works?"
 image: "wrap.png"
+description: "¿Quieres tonificar y reafirmar tu piel? Te presentamos un producto revolucionario, el Wrap de It works"
 ---
 
  <article class="container mod-row">

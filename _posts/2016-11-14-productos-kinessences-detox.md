@@ -27,16 +27,23 @@ image: "kinessences-portada.png"
    </ul>
    <p>
    ¿Para qué tipo de cabellos aconsejamos la gama Kinessences Detox?
+   </p>
+   <p>
    Hay cuatro señales que indican que este producto es para ti.
    Si ves que a tu pelo le falta vitalidad, si sientes que ha perdido su brillo natural, si tu cabello  o el cuero cabelludo se ven afectados por el trajín de tu día a día o por último si tu color de pelo está apagado y sin fuerza.
    En cualquiera de estos casos, tu pelo necesita una dosis Kinessences Detox!💪
    </p>
    <p>
     ¿Como se usa?
+    </p>
+    <p>
     Proponemos dos tratamientos diferentes según las necesidades de cada cabello, el tratamiento diario Detox y el plan intensivo Detox, en nuestro salon te aconsejamos cual es el más indicado para ti.
     </p>
     <p>
-    ¿En qué consiste el tratamiento diario Detox? Empezamos lavándonos el cabello, aplicamos el champú en el pelo y el cuero cabelludo y masajeamos suavemente hasta obtener espuma, dejamos actuar un par de minutos y aclaramos. A continuación aplicamos la mascarilla, dejamos actuar durante 5 minutos y aclaramos. Secamos y quitamos la humedad del pelo bien con una toalla. Una vez tengamos el pelo sin humedad aplicamos el producto que prepara el pelo para el secado, el Smoothie.
+    ¿En qué consiste el tratamiento diario Detox?
+    </p>
+    <p>
+    Empezamos lavándonos el cabello, aplicamos el champú en el pelo y el cuero cabelludo y masajeamos suavemente hasta obtener espuma, dejamos actuar un par de minutos y aclaramos. A continuación aplicamos la mascarilla, dejamos actuar durante 5 minutos y aclaramos. Secamos y quitamos la humedad del pelo bien con una toalla. Una vez tengamos el pelo sin humedad aplicamos el producto que prepara el pelo para el secado, el Smoothie.
     </p>
     <p>
     Si nuestro cabello está más dañado tendremos que pasar al plan B, el tratamiento intensivo Detox. La primera etapa de este tratamiento también consiste en lavar el cabello y el cuero cabelludo con el champú Detox. A continuación hay que <a class="link" href="http://www.peluqueriaescandalozaragoza.es/Errores-que-puedes-estar">secar</a> el 80% de la humedad del pelo con el secador. Después hay que preparar un “brebaje mágico” ✨ compuesto por una mezcla de Mascarilla Detox y Smoothie Detox en proporción 10/1 y proceder a cubrir el cabello con una toalla caliente durante 15 minutos (tiempo para un Spa capillar &#128521;).  Otra opción que puedes poner en práctica es, una vez aplicado el brebaje, cauterizar el pelo con una plancha a una potencia máxima de 130° durante el mismo tiempo.

@@ -2,6 +2,7 @@
 layout: "post"
 title: "4 maneras de cuidar tu cabello desde que te levantas"
 image: "4-maneras-cuidar.png"
+description: "Te damos 4 consejos que puedes incorporar a tu rutina diaria para cuidar tu pelo desde que pones los pies en el suelo"
 ---
 
 <article class="container mod-row">

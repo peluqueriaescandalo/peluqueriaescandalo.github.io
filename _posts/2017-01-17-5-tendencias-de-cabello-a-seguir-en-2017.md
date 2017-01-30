@@ -2,6 +2,7 @@
 layout: "post"
 title:  "5 tendencias de cabello a seguir en 2017"
 image: "5-tendencias-2017.png"
+description: "Hemos empezado el año y con el se instauran nuesvas tendencias. No te las pierdas, en este articulo te contamos lo que se lleva en el cabello en 2017"
 ---
 
 <article class="container mod-row">

@@ -2,6 +2,7 @@
 layout: "post"
 title: "Las 10 mejores verduras de invierno para tu cabello"
 image: "post-verduras.png"
+description: "Una lista con las mejores verduras de invierno para estar fuerte y sana por dentro y por fuera que ademas te ayudan a tener un cabello sano y brillante"
 ---
 
  <article class="container mod-row">

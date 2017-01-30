@@ -2,6 +2,7 @@
 layout: "post"
 title: "Tendencias de color para tu cabello para este Invierno ☃️"
 image: "tendencias-color-post.png"
+description: "Te contamos cuales son las tendencias de color para tu cabello para este Invierno 2016-2017"
 ---
 
  <article class="container mod-row">

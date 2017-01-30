@@ -2,6 +2,7 @@
 layout: "post"
 title:  "Guia para cuidarte el pelo en invierno"
 image: "guia-para-cuidarte-el-pelo-en-invierno.png"
+description: "Ya sabemos que en invierno el pelo sufre bastante los continuos cambios de temperatur, hoy te proponemos varios consejos para cuidar y proteger tu cabello en los meses frios"
 ---
 
 <article class="container mod-row">

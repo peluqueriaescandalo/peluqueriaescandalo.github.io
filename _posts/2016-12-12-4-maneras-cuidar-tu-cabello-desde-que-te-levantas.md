@@ -18,7 +18,7 @@ description: "Te damos 4 consejos que puedes incorporar a tu rutina diaria para 
    1. El Cepillado
   </p>
   <p>
-   Este secreto de la abuela es innegable: cepillarse el pelo hace que esté más bonito. Pero, atención no hablamos de arrancarse el pelo, que estará probablemente un poco enredado después de toda una noche de sueño. Vamos a desenredarnos el pelo poco a poco y para darle volumen lo haremos con la cabeza hacia abajo. ¡Los resultados están garantizados! Si todavía te llevas mal con tu peine o no has encontrado el cepillo que te enamore, en Escandalo te recomendamos el Tangle Teezer. Este cepillo no hace nada de daño, nosotras llevamos utilizándolo ya unos años y nos ha conquistado.
+   Este secreto de la abuela es innegable: cepillarse el pelo hace que esté más bonito. Pero, atención no hablamos de arrancarse el pelo, que estará probablemente un poco enredado después de toda una noche de sueño. Vamos a desenredarnos el pelo poco a poco y para darle volumen lo haremos con la cabeza hacia abajo. ¡Los resultados están garantizados! Si todavía te llevas mal con tu peine o no has encontrado el cepillo que te enamore, en Escandalo te recomendamos el <a class="link" href="http://www.peluqueriaescandalozaragoza.es/el-revolucionario-cepillo-tangle-teezer">Tangle Teezer</a>. Este cepillo no hace nada de daño, nosotras llevamos utilizándolo ya unos años y nos ha conquistado.
   </p>
   <div>
      <img src="img/cepillo-tangle-teezer.png" width="300" height="auto" alt="cepillo tangle teezer peluquería Escándalo">

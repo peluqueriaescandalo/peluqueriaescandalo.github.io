@@ -38,7 +38,7 @@ description: "Tienes un domingo libre, para ti? te damos 5 ideas de cosas que pu
     4. Hazte una mascarilla
     </p>
     <p>
-    Para la cara aprovecharemos para hacernos una mascarilla ya que esta necesita tiempo y tranquilidad. Podemos elegir una tipo parche, ya que son eficaces y comodas porque nos permiten continuar con las pequeñas actividades de la jornada.
+    Para la cara aprovecharemos para hacernos una mascarilla ya que esta necesita tiempo y tranquilidad. Podemos elegir una tipo parche, ya que son eficaces y comodas porque nos permiten continuar con las pequeñas actividades de la jornada. En Peluqueria Escandalo te recomendamos la <a class="link" href="http://escandalo.itworkseu.com/es/shop/product/EU103/">mascara facial de It works</a>. Suaviza la piel y minimiza la aparición de líneas finas y arrugas.
     </p>
     <p>
     5. Hazte la manicura
@@ -48,3 +48,5 @@ description: "Tienes un domingo libre, para ti? te damos 5 ideas de cosas que pu
     </p>
     <p>
     ¿A qué esperas a poner en marcha este ritual? 🛀 😍
+
+    Si quieres mas informacion sobre los productos It works, llamanos (976 27 78 08) y te diremos cuando hacemos una party para que puedas venir a probarlos.

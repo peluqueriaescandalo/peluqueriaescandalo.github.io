@@ -48,6 +48,7 @@ description: "Quieres afinar tus rasgos con tu corte de pelo? No busques mas te 
          <p>Ondas naturales y raya a un lado</p>
   </ul>
   <p>
-  Si quieres encontrar el peinado que afine tus rasgos llámanos o pásate por nuestro salon y te asesoraremos 😉
+  Si quieres encontrar el peinado que afine tus rasgos llámanos o pásate por nuestro salon y te asesoraremos 😉<br>
+  Peluquería Escándalo, c/ Lasierra Purroy 7, 50007 Zaragoza.
   </p>
   <a class="button" href="{{ site.url }}/formulario">Reservar</a>

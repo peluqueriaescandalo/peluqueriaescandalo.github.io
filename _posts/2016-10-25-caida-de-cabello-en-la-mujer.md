@@ -52,7 +52,8 @@ description: "Te explicamos como crece el pelo y cuales son las posibles causas 
     Ahora que conocemos esta información, la buena noticia es que podemos contribuir en cierta medida a minimizar la caída del cabello, bien sea modificando nuestra dieta, descansando más o cambiando la toma de ciertos medicamentos.&#128515;
    </p>
    <p>Consulta con tu médico y tu peluquero de confianza para que te aconsejen.</p>
-   <p class="container text-center">
-   Pasaté por nuestro salón y cuentanos tu caso, veremos como podemos ayudarte <a class="button" href="{{ site.url }}/formulario">Reservar</a>
+   <p>
+   Pasaté por nuestro salón, (Peluquería Escándalo, c/ Lasierra Purroy 7, 50007 Zaragoza) y cuentanos tu caso, veremos como podemos ayudarte
    </p>
+   <a class="button" href="{{ site.url }}/formulario">Reservar</a>
 </article>

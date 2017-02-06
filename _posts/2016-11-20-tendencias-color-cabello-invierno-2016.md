@@ -41,5 +41,6 @@ description: "Te contamos cuales son las tendencias de color para tu cabello par
    Si este artículo te ha dejado con el gusanillo de tener un look más natural, pasate por Escándalo para elegir tu tono de este invierno.
    </p>
    <p>
-   Te esperamos de lunes a viernes de 9h30 a 18h00 y los sabados de 9h00 a 13h00. <a class="button" href="{{ site.url }}/formulario">Reservar</a>
+   Te esperamos de lunes a viernes de 9h30 a 18h00 y los sabados de 9h00 a 13h00. <br>
+   Peluquería Escándalo, c/ Lasierra Purroy 7, 50007 Zaragoza. <a class="button" href="{{ site.url }}/formulario">Reservar</a>
    </p>

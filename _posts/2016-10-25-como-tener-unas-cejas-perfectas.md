@@ -37,6 +37,7 @@ description: "¿Siempre te has preguntado cómo pueden los famosos tener esas ce
    <img src="img/peinadocejas.jpg" width="300" height="auto" alt="Peluqueria Escandalo peinado de cejas">
   </div>
    <p class="container text-center">
-   Reserva tu cita en Escandalo y llevaté unas cejas de cine! &#128521; <a class="button" href="{{ site.url }}/formulario">Reservar</a>
+   Reserva tu cita en Escandalo y llevaté unas cejas de cine! &#128521; Peluquería Escándalo, c/ Lasierra Purroy 7, 50007 Zaragoza.
    </p>
+   <a class="button" href="{{ site.url }}/formulario">Reservar</a>
 </article>

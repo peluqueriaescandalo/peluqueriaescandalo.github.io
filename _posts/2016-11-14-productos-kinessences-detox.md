@@ -54,6 +54,8 @@ image: "kinessences-portada.png"
     Si lo quieres probar puedes adjudicarte uno de nuestros pack especiales de viaje que contienen los productos en versión mini.<br> ¡Te encantarán!
     </p>
     <p>
-    Pasaté por nuestro salón para probar Los Kinessences Detox, te esperamos! 🙋 <a class="button" href="{{ site.url }}/formulario">Reservar</a>
+    Pasaté por nuestro salón para probar Los Kinessences Detox, te esperamos! 🙋 <br>
+    Peluquería Escándalo, c/ Lasierra Purroy 7, 50007 Zaragoza.
+    <a class="button" href="{{ site.url }}/formulario">Reservar</a>
     </p>
  </article>

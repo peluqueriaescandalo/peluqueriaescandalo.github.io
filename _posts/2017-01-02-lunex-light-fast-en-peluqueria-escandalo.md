@@ -53,5 +53,7 @@ description: "Si quieres obtener reflejos en 5 minutos, el Lunex Light Fast es l
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Swh0wv0cqx0" frameborder="0" allowfullscreen></iframe>
   </div>
 
-  <p class="text-center"> ¿Tienes ganas de probar el Lunex Light Fast? No lo pienses más y reserva tu cita con nosotras.</p>
+  <p class="text-center"> ¿Tienes ganas de probar el Lunex Light Fast? No lo pienses más y reserva tu cita con nosotras.<br>
+  Peluquería Escándalo, c/ Lasierra Purroy 7, 50007 Zaragoza.
+  </p>
   <a class="button" href="{{ site.url }}/formulario">Reservar</a>

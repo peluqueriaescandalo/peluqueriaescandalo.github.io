@@ -62,11 +62,12 @@ description: "Queremos presentar los nuevos batidos de It works. Una proteína p
     Si estás aconstumbrad@ a cenar una cantidad importante, como nos pasa a muchos ya que la cena es la comida que haces con más relax, quizás puedes sentir hambre justo en el momento en que te vas a la cama o cuando te acabas de meter en ella. En ese caso antes de caer y picar cualquier cosa, tomate un Shake. <br>
     Con sus dos sabores de vainilla o chocolate es la manera perfecta de acabar el día e incluso puede que duermas mejor gracias a los aminoácidos que contiene.
     </p>
-    <p>
-    ¿Te apetece probar los Shake de It works para empezar a completar tu dieta? Manos a la obra!  <a class="button" href="http://escandalo.itworks.com/">Comprar</a>
-    </p>
-    <p>
+    <p class="text-center">
+    ¿Te apetece probar los Shake de It works para empezar a completar tu dieta? Manos a la obra!<br>
      Somos distribuidores It Works en Zaragoza, llamanos o pasate por nuestro salon para más información.
+   </p>
+   <p class="text-center">
+   <a class="button" href="http://escandalo.itworks.com/">Comprar</a>
     </p>
    <div>
       <img src="img/big-hero.gif" width="400" height="auto" alt="It works peluquería Escándalo Zaragoza">

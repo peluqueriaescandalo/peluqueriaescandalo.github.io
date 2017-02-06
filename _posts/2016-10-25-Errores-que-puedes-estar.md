@@ -8,7 +8,8 @@ description: "Si te preguntas si te secas el pelo correctamente aqui encontraras
  <article class="container mod-row">
   <div class="container-item-text-left">
    <p>
-    Queremos llamar tu atención sobre algunos errores que puedes estar cometiendo a la hora de secarte el pelo y que pueden dañarlo.
+    Desde Peluquería Escándalo queremos llamar tu atención sobre algunos errores frecuentes que puedes estar cometiendo a la hora de secarte el pelo y que pueden dañarlo. Toma nota para dejar de hacerlos y no dañar
+    tu cabello.
    </p>
  </div>
  <div>
@@ -50,6 +51,8 @@ description: "Si te preguntas si te secas el pelo correctamente aqui encontraras
    La boquilla extraíble de tu secador de pelo puede parecer un extra innecesario, pero, en realidad, hace que la dirección y la concentración  del aire sea muy precisa, lo que puede ser de gran ayuda para evitar el error 7.
    </p>
    <p class="container text-center">
-   Esperamos que estos consejos sean de utilidad, si tienes cualquier duda pasa por nuestro salón &#128521; <a class="button" href="{{ site.url }}/formulario">Reservar</a>
+   Esperamos que estos consejos sean de utilidad, si tienes cualquier duda pasa por nuestro salón &#128521;<br>
+   Peluquería Escándalo, c/ Lasierra Purroy 7, 50007 Zaragoza.
    </p>
+   <a class="button" href="{{ site.url }}/formulario">Reservar</a>
 </article>

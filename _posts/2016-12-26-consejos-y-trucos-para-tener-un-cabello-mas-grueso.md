@@ -129,6 +129,7 @@ description: "Te presentamos unos cuantos trucos para tener un cabello más grue
      <img src="img/pelo_rizado.jpg" width="600" height="auto" alt="pelo rizado peluquería Escándalo">
   </div>
   <p>
-    Ahora ya sabes cómo conseguir un cabello más grueso. Hemos descrito los métodos más fáciles de seguir y asequibles. Esperamos que estos consejos te ayuden y si necesitas más información no dudes en contactarnos.😉
+    Ahora ya sabes cómo conseguir un cabello más grueso. Hemos descrito los métodos más fáciles de seguir y asequibles. Esperamos que estos consejos te ayuden y si necesitas más información no dudes en contactarnos.😉<br>
+    Peluquería Escándalo, c/ Lasierra Purroy 7, 50007 Zaragoza.
   </p>
   <a class="button" href="{{ site.url }}/formulario">Reservar</a>

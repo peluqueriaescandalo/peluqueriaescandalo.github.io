@@ -90,5 +90,6 @@ description: "¿Quieres tonificar y reafirmar tu piel? Te presentamos un product
     Después podrás beneficiarte de precios especiales, ofrecemos un programa de fidelidad con en el que comprando productos It works durante 3 meses te ofrecemos tarifas con importantes descuentos. Informate.
    </p>
    <p>
-    ¿Ya conoces los productos It works? Compra aqui tu Wrap <a class="button" href="http://escandalo.itworks.com/">Comprar</a>
+    ¿Ya conoces los productos It works? Compra aqui tu Wrap
    </p>
+   <a class="button" href="http://escandalo.itworks.com/">Comprar</a>

@@ -63,5 +63,8 @@ description: "Hemos empezado el año y con el se instauran nuesvas tendencias. N
      <img src="img/pixie.png" width="400" height="auto" alt="tendencias 2017 peluqueria Escándalo Zaragoza">
   </div>
 
-  <p class="text-center"> ¿Ya sabes cual es tu look para este 2017? Entonces, reserva tu cita con nosotras.</p>
+  <p class="text-center"> ¿Ya sabes cual es tu look para este 2017? Entonces, reserva tu cita con nosotras.<br>
+  <p class="text-center"> ¿Tienes ganas de probar el Lunex Light Fast? No lo pienses más y reserva tu cita con nosotras.<br>
+  Peluquería Escándalo, c/ Lasierra Purroy 7, 50007 Zaragoza.
+  </p>
   <a class="button" href="{{ site.url }}/formulario">Reservar</a>

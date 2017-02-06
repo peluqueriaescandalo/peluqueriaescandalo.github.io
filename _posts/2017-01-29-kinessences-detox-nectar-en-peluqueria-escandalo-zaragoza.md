@@ -2,7 +2,7 @@
 layout: "post"
 title:  "Kinessences Detox Néctar en Peluquería Escándalo"
 image: "kinessences-detox-nectar.png"
-description: "Cuida de tu acbello con este nuevo producto en forma de crema, el Kinessences Detox Nectar, a base de productos naturales "
+description: "Cuida de tu cabello con este nuevo producto en forma de crema, el Kinessences Detox Nectar, a base de productos naturales "
 ---
 
 <article class="container mod-row">

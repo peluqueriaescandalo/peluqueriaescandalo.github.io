@@ -22,7 +22,7 @@ description: "Queremos presentar los nuevos batidos de It works. Una proteína p
     It Works Shake es una proteína pura de origen vegetal que te ayudará a potenciar tus ejercicios, a construir masa muscular magra y a ayudarte a tener un metabolismo sano.
   </p>
   <p>
-    Según el <a class="link"href="http://www.pcrm.org/health/diets/vegdiets/how-can-i-get-enough-protein-the-protein-myth">Comité de Médicos para la medicina responsable de Estados Unidos</a>, la proteína es un nutriente importante para la construcción, el mantenimiento y la reparación de los tejidos del cuerpo. Los aminoácidos, los componentes básicos de la proteína, pueden ser sintetizados por el cuerpo o ingeridos a través de los alimentos.
+    Según el <a class="link" href="http://www.pcrm.org/health/diets/vegdiets/how-can-i-get-enough-protein-the-protein-myth">Comité de Médicos para la medicina responsable de Estados Unidos </a>, la proteína es un nutriente importante para la construcción, el mantenimiento y la reparación de los tejidos del cuerpo. Los aminoácidos, los componentes básicos de la proteína, pueden ser sintetizados por el cuerpo o ingeridos a través de los alimentos.
   </p>
   <p>
     Hay 20 aminoácidos diferentes en los alimentos que comemos, de los cuales nuestro cuerpo sólo puede fabricar 11. Los 9 aminoácidos que no pueden ser producidos por el cuerpo, tenemos que obtenerlos con la alimentación.

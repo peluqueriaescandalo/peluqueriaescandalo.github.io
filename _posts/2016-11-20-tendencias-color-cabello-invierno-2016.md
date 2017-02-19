@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title: "Tendencias de color para tu cabello para este Invierno ☃️"
+date: "2016-11-20 17:00:00"
 image: "tendencias-color-post.png"
 description: "Te contamos cuales son las tendencias de color para tu cabello para este Invierno 2016-2017"
 ---

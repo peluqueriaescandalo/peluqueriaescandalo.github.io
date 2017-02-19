@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title:  "Los nuevos shake de It works"
+date: "2017-01-23 17:00:00"
 image: "los-nuevos-shakes.png"
 description: "Queremos presentar los nuevos batidos de It works. Una proteína pura de origen vegetal que te ayudará a potenciar tus ejercicios, a construir masa muscular magra y a ayudarte a tener un metabolismo sano."
 ---

@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title: "Las 10 mejores verduras de invierno para tu cabello"
+date: "2016-11-24 17:00:00"
 image: "post-verduras.png"
 description: "Una lista con las mejores verduras de invierno para estar fuerte y sana por dentro y por fuera que ademas te ayudan a tener un cabello sano y brillante"
 ---

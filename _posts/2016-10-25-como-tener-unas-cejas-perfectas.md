@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title: "¿Como tener unas cejas perfectas?"
+date: "2016-10-25 17:00:00"
 image: "blog-cejas-perfectas.png"
 description: "¿Siempre te has preguntado cómo pueden los famosos tener esas cejas siempre tan bien peinadas y con todos los pelos en tu sitio? Nosotras te lo contamos"
 ---

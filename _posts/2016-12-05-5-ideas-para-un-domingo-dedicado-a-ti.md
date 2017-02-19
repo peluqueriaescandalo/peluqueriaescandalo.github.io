@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "5 ideas para un domingo dedicado a ti"
-image: "5-ideas-domingo.png"
+date: "2016-12-05 17:00:00"
 description: "Tienes un domingo libre, para ti? te damos 5 ideas de cosas que puedes hacer para cuidarte, relajarte y estar al 100% para comenzar la semana"
 ---
 

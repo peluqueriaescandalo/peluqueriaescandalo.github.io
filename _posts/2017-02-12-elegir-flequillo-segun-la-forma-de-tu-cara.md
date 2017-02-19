@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title:  "Elegir flequillo según la forma de tu cara"
+date: "2017-02-12 17:00:00"
 image: "elegir-flequillo.png"
 description: "Los años pasan y el flequillo se queda. Corto, desfilado, recto o hacia un lado, se puede adaptar a todas las tendencias y es todo un clásico de la peluquería. El flequillo le queda bien a todo el mundo siempre y cuando se adapte a la morfología de tu cara."
 ---

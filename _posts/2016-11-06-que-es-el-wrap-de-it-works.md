@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title: "¿Qué es el Wrap de it works?"
+date: "2016-11-06 17:00:00"
 image: "wrap.png"
 description: "¿Quieres tonificar y reafirmar tu piel? Te presentamos un producto revolucionario, el Wrap de It works"
 ---

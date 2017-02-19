@@ -2,6 +2,7 @@
 layout: "post"
 title: "Caída del cabello en la mujer"
 image: "caida-cabello-mujer.png"
+date: "2016-10-25 17:00:00"
 description: "Te explicamos como crece el pelo y cuales son las posibles causas de la perdida del cabello en la mujer"
 ---
 

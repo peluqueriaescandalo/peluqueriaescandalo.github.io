@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title:  "Kinessences Detox Néctar en Peluquería Escándalo"
+date: "2017-01-29 17:00:00"
 image: "kinessences-detox-nectar.png"
 description: "Cuida de tu cabello con este nuevo producto en forma de crema, el Kinessences Detox Nectar, a base de productos naturales "
 ---

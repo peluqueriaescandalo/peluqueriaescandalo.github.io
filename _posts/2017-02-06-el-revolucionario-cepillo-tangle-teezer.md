@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title:  "El revolucionario cepillo Tangle Teezer"
+date: "2017-02-06 17:00:00"
 image: "el-revolucionario-cepillo-tangle-teezer.png"
 description: "Seguro que ya has oído hablar del cepillo Tangle Teezer, pero si todavía no conoces sus ventajas hoy te presentamos 4 razones que prueban que este cepillo es una necesidad para tener el baño o el bolso."
 ---

@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title:  "Consejos y trucos para tener un cabello más grueso"
+date: "2016-12-26 17:00:00"
 image: "Consejos-trucos-cabello-mas-grueso.png"
 description: "Te presentamos unos cuantos trucos para tener un cabello más grueso"
 ---

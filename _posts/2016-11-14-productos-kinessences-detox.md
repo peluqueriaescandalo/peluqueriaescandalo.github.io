@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title: "Te presentamos la gama Kinessences Detox"
+date: "2016-11-14 17:00:00"
 image: "kinessences-portada.png"
 ---
 

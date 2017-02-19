@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title:  "3 trucos que facilitan el peinado"
-date: "2017-02-18 17:00:00"
+date: "2017-02-18"
 image: "3-trucos.png"
 description: "A todas nos encanta tener todos los pelos en su sitio y lucir un peinado perfecto, sin embargo un pelo perfecto necesita un poco de tiempo y el equipo adecuado."
 ---

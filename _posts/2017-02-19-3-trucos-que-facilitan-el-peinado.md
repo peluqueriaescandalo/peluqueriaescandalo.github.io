@@ -30,7 +30,7 @@ description: "A todas nos encanta tener todos los pelos en su sitio y lucir un p
     Este truco es muy tonto pero permite ahorrar tiempo y además ganar volumen! <a class="link" href="http://www.peluqueriaescandalozaragoza.es/Errores-que-puedes-estar">Secar el pelo</a> con la cabeza hacia abajo facilita el secado en el cuello y el cuero cabelludo del pelo que no queremos dejar mojado en <a class="link" href="http://www.peluqueriaescandalozaragoza.es/guia-para-cuidarte-el-pelo-en-invierno">invierno</a>. Además, al despegar las raíces del cuero cabelludo, se gana volumen inmediatamente. Un truquillo muy simple y práctico especialmente en el pelo fino.
   </p>
   <div>
-    <img src="img/3-trucos-detox.png" width="400" height="auto" alt="Productos Detox Nectar de Kinessences y Fluid Gloss de Z-oneconcept">
+    <img src="img/3-trucos-detox.png" width="400" height="auto" alt="Productos Detox Nectar de Kinessences y Fluid Gloss de Z-one concept">
   </div>
   <p>
     3. El cepillo redondo de cerdas naturales

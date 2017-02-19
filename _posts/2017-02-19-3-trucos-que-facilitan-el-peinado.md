@@ -31,8 +31,8 @@ description: "A todas nos encanta tener todos los pelos en su sitio y lucir un p
   </p>
   <div>
     <img src="img/3-trucos-detox.png" width="400" height="auto" alt="Productos Detox Nectar de Kinessences y Fluid Gloss de Z-oneconcept">
-   </div>
-   <p>
+  </div>
+  <p>
     3. El cepillo redondo de cerdas naturales
   </p>
   <p>

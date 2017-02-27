@@ -23,7 +23,8 @@ description: ""
    </div>
   <p>
     1. Selecciona una asociación
-
+  </p>
+  <p>
     Hay varias asociaciones que se dedican a recoger el cabello donado. Los criterios para aceptar el cabello varían ligeramente de unas a otras.
   </p>
   <p>

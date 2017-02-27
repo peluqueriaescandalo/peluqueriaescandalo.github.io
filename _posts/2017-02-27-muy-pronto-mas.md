@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Muy pronto más noticias
-date: "2017-02-19 08:00:00"
+date: "2017-02-27 08:00:00"
 image: "mas-noticias.png"
 ---
 <article class="container mod-row">

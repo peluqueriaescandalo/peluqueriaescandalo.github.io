@@ -15,15 +15,12 @@ description: ""
     Una manera de ayudar a estas personas  es donando tu cabello para fabricar una peluca. Una iniciativa solidaria que ayuda a muchas personas que están pasando momentos difíciles o tienen un complejo a sentirse más a gusto con ellas mismas.
   </p>
   <p>
-    Se necesitan entre 6 y 15 coletas para fabricar una peluca, lo que es una cantidad importante. Si te pica el gusanillo de donar tu cabello hoy te vamos a explicar cómo puedes hacerlo para que otra persona disfrute de tu pelo.
+    Se necesitan entre 6 y 15 coletas para fabricar una peluca, lo que es una cantidad importante. Si te pica el gusanillo de donar tu cabello hoy te vamos a explicar en 4 pasos cómo puedes hacerlo para que otra persona disfrute de tu pelo.
   </p>
  </div>
   <div>
     <img src="img/como-donar-tu-cabello.jpg" width="380" height="auto" alt="3 trucos que facilitan el peinado">
    </div>
-  <p>
-    Lo que debes saber antes de cortarlo
-  </p>
   <p>
     1. Selecciona una asociación
 
@@ -38,7 +35,7 @@ description: ""
     Para donar hay que ser mayor de edad o tener un papel con el consentimiento de tus padres.
   </p>
   <p>
-  2. Asegurate de que el pelo está sano
+  2. Asegurate de que el pelo está sano.
   </p>
   <p>
     - Comprueba que tu pelo no está dañado por productos químicos, como el tinte, las mechas...<br>
@@ -46,7 +43,7 @@ description: ""
     - Por supuesto el pelo no debe tener piojos u otros parásitos.<br>
   </p>
   <p>
-  3. Requisitos del cabello para donar:
+  3. Asegurate de cumplir estos requisitos.
   </p>
   <p>
     - La medida mínima para donar es de 8 pulgadas (20,32 CM).<br>
@@ -55,13 +52,13 @@ description: ""
     - El cabello rizado u ondulado también es bienvenido.<br>
   </p>
   <p>
-  4. A la hora de cortar:
+  4. A la hora de cortar sigue estos pasos.
   </p>
   <p>
     - Asegurarse de que la longitud es por lo menos la mínima.<br>
-    - Recoger el cabello con una goma de pelo elástica o en dos trenzas.<br>
-    - Cortar justo por encima de la cola de cabello.<br>
-    - No dejar que el cabello toque el suelo.<br>
-    - Secar el cabello antes de atarlo con una goma.<br>
-    - Colocarlo en una bolsa de plástico al vacío y ya estará listo para el envío.
+    - Recoge el cabello con una goma de pelo elástica o en dos trenzas.<br>
+    - Corta justo por encima de la cola de cabello.<br>
+    - No dejes que el cabello toque el suelo.<br>
+    - Seca el cabello antes de atarlo con una goma.<br>
+    - Colocalo en una bolsa de plástico al vacío y ya estará listo para el envío.
   </p>

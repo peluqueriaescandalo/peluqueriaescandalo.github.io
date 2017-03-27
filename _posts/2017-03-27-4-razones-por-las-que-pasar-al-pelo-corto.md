@@ -2,7 +2,7 @@
 layout: "post"
 title:  "4 razones por las que pasar al pelo corto"
 date: "2017-02-26 05:00:00"
-image: "4-razones-por-las-que-pasar-al-pelo-corto.png"
+image: "4 razones por las que pasar al pelo corto.png"
 description: "Un corte corto es siempre tentador. Puede resultar muy femenino, sexy y además cómodo. Y solo apto para las más atrevidas!"
 ---
 

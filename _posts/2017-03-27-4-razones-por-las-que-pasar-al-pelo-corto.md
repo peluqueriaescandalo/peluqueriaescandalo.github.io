@@ -2,8 +2,8 @@
 layout: "post"
 title:  "4 razones por las que pasar al pelo corto"
 date: "2017-02-26 05:00:00"
-image: "4-razones-por-las-que-pasar-al-pelo-corto.png"
-description: ""
+image: "4-razones-por-las-que-pasar-al-pelo-corto.jpg"
+description: "Un corte corto es siempre tentador. Puede resultar muy femenino, sexy y además cómodo. Y solo apto para las más atrevidas!"
 ---
 
 <article class="container mod-row">
@@ -13,7 +13,7 @@ description: ""
   </p>
   </div>
   <div>
-    <img src="img/como-donar-tu-cabello.jpg" width="380" height="auto" alt="3 trucos que facilitan el peinado">
+    <img src="img/4-razones-por-las-que-pasar-al-pelo-corto.jpg" width="380" height="auto" alt="3 trucos que facilitan el peinado">
   </div>
   <h1>1. Se acabaron las puntas abiertas</h1>
   <p>
@@ -37,7 +37,7 @@ description: ""
     Un cambio de look puede restablecer la confianza, como si la "antigua tú" se hubiese quedado en el suelo de nuestra peluquería con tu cabello. Estás lista para el cambio?
   </p>
   <p>
-    - <a class="link" href="www.mechonessolidarios.com">Mechones solidarios</a><br>
-    - <a class="link" href="http://pantene.com/es-us/brandexperience/about-the-program">Pantene</a><br>
-    - <a class="link" href="http://www.pekelucas.org/iniciativa.html">Pekelucas</a><br>
+    Pasaté por nuestro salón en Zaragoza, te ayudaremos a elegir el corte de pelo corto que te favorezca más, te esperamos! 🙋<br>
+    Peluquería Escándalo, c/ Lasierra Purroy 7, 50007 Zaragoza.
+  <a class="button" href="{{ site.url }}/formulario">Reservar</a>
   </p>

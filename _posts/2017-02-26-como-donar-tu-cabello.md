@@ -28,7 +28,7 @@ description: ""
     Hay varias asociaciones que se dedican a recoger el cabello donado. Los criterios para aceptar el cabello varían ligeramente de unas a otras.
   </p>
   <p>
-    - <a class="link" href="www.mechonessolidarios.com">Mechones solidarios</a><br>
+    - <a class="link" href=" http://www.mechonessolidarios.com/">Mechones solidarios</a><br>
     - <a class="link" href="http://pantene.com/es-us/brandexperience/about-the-program">Pantene</a><br>
     - <a class="link" href="http://www.pekelucas.org/iniciativa.html">Pekelucas</a><br>
   </p>

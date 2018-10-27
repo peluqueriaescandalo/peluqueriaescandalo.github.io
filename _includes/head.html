@@ -29,27 +29,28 @@
   <meta name="description" content="{{ page.description }}" />
 
   <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
-<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
-<script>
-window.addEventListener("load", function(){
-window.cookieconsent.initialise({
-  "palette": {
-    "popup": {
-      "background": "#216942",
-      "text": "#b2d192"
+  <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+  <script>
+  window.addEventListener("load", function(){
+  window.cookieconsent.initialise({
+    "palette": {
+      "popup": {
+        "background": "#efefef",
+        "text": "#404040"
+      },
+      "button": {
+        "background": "transparent",
+        "text": "#8ec760",
+        "border": "#8ec760"
+      }
     },
-    "button": {
-      "background": "transparent",
-      "text": "#afed71",
-      "border": "#afed71"
+    "position": "bottom-right",
+    "content": {
+      "message": "🍪🍪 Esta pagina usa cookies para asegurar una mejor experiencia en nuestra web. Si la utilizas se sobreentiende que aceptas su uso",
+      "dismiss": "Entendido!",
+      "link": "Leer mas",
+      "href": "www.http://www.peluqueriaescandalozaragoza.es/cookies/"
     }
-  },
-  "position": "bottom-right",
-  "content": {
-    "message": "Esta pagina usa cookies para asegurar una mejor expeiencia en nuestra web.",
-    "dismiss": "Entendido!",
-    "link": "Leer mas"
-  }
-})});
-</script>
+  })});
+  </script>
 </head>

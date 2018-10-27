@@ -17,18 +17,7 @@
 
   ga('create', 'UA-71519559-1', 'auto');
   ga('send', 'pageview');
-
   </script>
-
-  <!– SCRIPT PARA EL CONTROL DE COOKIES –>
-<script type=“text/javascript”>
-function controlcookies() {
-// si variable no existe se crea (al hacer clic en Aceptar)
-localStorage.controlcookie = (localStorage.controlcookie || 0);
-localStorage.controlcookie++; // incrementamos la cuenta de la cookie
-cookie1.style.display=‘none’; // Esconde la política de cookies en futuras visitas
-}
-</script>
 
   <meta name="p:domain_verify" content="8f356ee6d1181997c33743377aedcd79"/>
 
@@ -38,4 +27,29 @@ cookie1.style.display=‘none’; // Esconde la política de cookies en futuras 
   <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
   <meta name="description" content="{{ page.description }}" />
+
+  <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#216942",
+      "text": "#b2d192"
+    },
+    "button": {
+      "background": "transparent",
+      "text": "#afed71",
+      "border": "#afed71"
+    }
+  },
+  "position": "bottom-right",
+  "content": {
+    "message": "Esta pagina usa cookies para asegurar una mejor expeiencia en nuestra web.",
+    "dismiss": "Entendido!",
+    "link": "Leer mas"
+  }
+})});
+</script>
 </head>

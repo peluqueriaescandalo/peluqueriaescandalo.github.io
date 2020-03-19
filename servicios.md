@@ -8,7 +8,7 @@ permalink: /servicios/
   <h1>Tu peluqueria de confianza</h1>
   <p class="large-text">Experiencia, pasión por nuestro trabajo y productos de primera calidad<br> definen la filosofía de nuestro salón.</p>
   <p>
-    Te esperamos de lunes a viernes de  9h30 a 18h00 y los sabados de 9h00 a 13h00
+    Te esperamos de lunes a viernes de 9h30 a 18h00 y los sabados de 9h00 a 13h00.
   </p>
   <p>
     <a class="button" href="{{ site.url }}/formulario/">Reservar</a>
